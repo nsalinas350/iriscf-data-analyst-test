@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Spark / Hadoop temporales en local
+.spark-staged/
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Sistema operativos
+.DS_Store
+Thumbs.db

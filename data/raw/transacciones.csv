@@ -1,0 +1,430 @@
+﻿id_transaccion;fecha;id_cliente;tipo_producto;monto;moneda;tasa_interes;plazo_dias;canal;estado;sucursal
+500058;2025-03-04;1013;CTA_AHORROS;1.236.028 COP;Pesos;;0;Web;pend;Barranquilla
+500240;2024-02-16;1007;cdt;23,962.24;Dolares;9,8%;;web;Aprobada;Barranquilla
+500262;17.09.2024;1046;crédito;$87.546.855;$;;180;ATM;aprobado;cali
+500041;22/08/2024;1041;CDT; 63.512.617 ;COP;;N/A;web;Aprobada;Bogota
+500073;2024-11-09;1015;cdt;14,233.99;USD;13.14;365 dias;Web;Aprobada;Cali
+500380;2024-08-26;1033;crédito;3,508.83;Dolares;9.2 %;N/A;oficina;pend;b/quilla
+500025;2024-03-05;1006;Credito;45.724.356 COP;cop;0,128;;OFICINA;rechazada;b/quilla
+500135;2024-12-05;1030;CDT;63.275.519,25;Pesos;12.8 %;365 dias;App;Aprobada;  Bogotá 
+500020;16/02/2024;1045;AHORROS;-3.877.402 ;$;0;0;ATM;aprobado;cali
+500207;2024-07-16;1038;ahorros;5,296.36;USD;N/A;-;ATM;aprobado;Cali
+500155;27/08/2024;1008;ahorros;$14.836.914;$;;-;cajero automatico;aprobado;Medellin
+500088;2024/7/11;1028;Cdt ; 75.401.823 ;$;13.4 %;365 dias;cajero automatico;pend;medellín
+500254;2024-06-13;1026;Cuenta Corriente; 9.561.243 ;COP;0;0;ATM;APROBADA;
+500129;2024-09-11;1029;CORRIENTE;8,559.32;USD;N/A;0;Oficina;En proceso;Bogota
+500379;2024-07-27; 1033 ;CORRIENTE;$9.074.053;cop;0;;app movil;Pendiente;Medellin
+500347;2024-12-18; 1033 ;ahorros; 5.934.639 ;pesos;0;;Web;pend;
+500031;2024-05-28;1038;ahorros;2.447.012 COP;cop;;;Web;aprobado;  Bogotá 
+500183;2024/11/2;1040;Certificado de Deposito;$57.692.951;$;12.47;;app movil;APROBADA;Barranquilla
+500003;2024/4/9;1027;CERTIFICADO DE DEPOSITO; 5.961.774 ;;N/A;N/A;OFICINA;Pendiente;Barranquilla
+500382;2024-08-01;1021;CTA_AHORROS;4.941.023;;0;;web;Pendiente;Cali
+500350;2024-12-03;1036;CORRIENTE;-8.278.349;pesos;0;0;APP;pend;BOGOTA
+500165;18/09/2024;1012;Cuenta Ahorros;7.496.907 COP;$;0;0;Web;Aprobada;Bogota
+500186;2024/6/27;1021;Cuenta de ahorros;968.633 COP;;;;OFICINA;PENDIENTE;b/quilla
+500324;04/10/2024; 1025 ;Cdt ;78.281.592;Pesos;11.30;180;app movil;En proceso;  Bogotá 
+500340;27/12/2023; 1017 ;CTA_AHORROS;210.428,00;Pesos;N/A;0;OFICINA;Pendiente;Barranquilla
+500288;11/02/2024;9999;CDT;$23.691.963;cop;10.09;90;oficina;pend;Barranquilla
+500072;2024-12-18;1014;cta corriente;2.580.610 COP;COP;0;-;Oficina;PENDIENTE;Cartagena
+500123;20-11-2024;7777;ahorros;1.973.695,25;Pesos;N/A;;app movil;Rechazada;b/quilla
+500079;2024/10/20;1033;Cuenta Corriente;$10.046.568;cop;;-;OFICINA;Rechazada;Bogota
+500300;2024-06-09;1008;Cuenta Ahorros;$1.399.668;pesos;;-;web;aprobado;medellín
+500375;28/07/2024;1027;Cuenta de ahorros;2.839.929;$;0;0;oficina;Rechazada;  Bogotá 
+500225;11.04.2024;1010;crédito;$41.579.389;pesos;10,6%;180;oficina;pend;Medellin
+500037;2024-12-04;1029;AHORROS;2.841.745,25;COP;;0;oficina;Rechazada;Bogota
+500266;08/11/2024;1043;Cuenta de ahorros;$8.045.763;$;;-;Oficina;pend;Cali
+500070;2024-07-16;1036;CORRIENTE;$2.371.504;;0;0;Cajero;En proceso;Cali
+500023;2024/1/24; 1013 ;Cuenta corriente;2.610.610 COP;$;0;;oficina;Pendiente;Bogota
+500259;2024-09-19;1038;CTA_AHORROS;$6.867.713;$;;0;OFICINA;Rechazada;Barranquilla
+500005;2024-09-04;1009;AHORROS; 8.349.971 ;COP;;;app movil;rechazada;b/quilla
+500074;2024/5/12;1032;Cuenta corriente;9.107.114,90;Pesos;0;-;app movil;En proceso;Medellin
+500043;14/07/2024;1031;CDT;6,926.23;USD;12,0%;180;App;APROBADA;Bogota
+500341;6-7-2024;1049;ahorros;$11.097.696;$;;0;Oficina;pend;Cartagena
+500097;10-1-2024;1009;Cdt ;$57.507.492;COP;10.0 %;180;APP;En proceso;Bogota
+500370;18-11-2024;1050;cdt;6.149.329,50;$;9.5 %;365 dias;OFICINA;aprobado;Medellin
+500327;27-9-2024;1014;Cuenta corriente;13.387.297,90;;0;-;Oficina;Pendiente;  Bogotá 
+500029;2024-09-20;1036;Crédito;$101.135.416;Pesos;8.53;N/A;Web;Aprobada;
+500006;2024/2/10;1002;Certificado de Deposito; 20.337.041 ;;;N/A;app movil;PENDIENTE;Cali
+500008;25.10.2024; 1019 ;crédito;24,703.21;Dolares;0,089;180;oficina;Aprobada;medellín
+500233;19-6-2024;1003;CERTIFICADO DE DEPOSITO;9.307.015,90;Pesos;0,107;360;ATM;APROBADA;Bucaramanga
+500312;2024-06-12;1001;AHORROS;$857.572;;N/A;0;App;Pendiente;Cali
+500400;25.01.2024; 1043 ;Cuenta Corriente;6.846.799;COP;0;-;cajero automatico;Aprobada;BOGOTA
+500107;5-10-2025;1009;cdt;$57.230.282;cop;0,100;180;web;Pendiente;  Bogotá 
+500227;22/07/2024;1004;Credito;44.810.615,50;COP;10.06;90;ATM;pend;b/quilla
+500091;2023-02-05;1012;Cuenta Ahorros;21,231.60;USD;0;0;app movil;PENDIENTE;b/quilla
+500151;3-4-2024;1030;ahorros;12.184.926;$;0;-;Oficina;APROBADA;Barranquilla
+500273;14/08/2024;1050;Credito;N/A;COP;;365 dias;Cajero;aprobado;Barranquilla
+500099;2024-10-24; 1048 ;AHORROS;$9.472.433;COP;N/A;;Web;En proceso;Bogota
+500362;2024/6/14; 1028 ;AHORROS;$10.386.022;cop;;-;web;rechazada;Bogota
+500163;2024/12/21;7777;Cuenta de ahorros; 11.237.443 ;cop;N/A;;web;Aprobada;Bogota
+500252;16/02/2024;1012;Cuenta de ahorros;$14.103.454;Pesos;;-;Web;Rechazada;
+500349;21/08/2025;1016;crédito; 8.070.241 ;COP;0,103;365 dias;web;APROBADA;Cali
+500369;2024/6/26;1019;CDT;$7.136.176;Pesos;9,1%;360;web;PENDIENTE;b/quilla
+500164;01/09/2025;1049;Certificado de Deposito;$47.889.353;COP;0,093;90;ATM;Rechazada;  Bogotá 
+500086;9-2-2024;1002;CDT; 3.980.520 ;Pesos;11,4%;;web;pend;Barranquilla
+500418;2024-10-12; 1027 ;Cuenta Corriente;-1.070.297;$;;0;OFICINA;Pendiente;BOGOTA
+500294;2024/2/27;1005;Cuenta de ahorros;24,615.26;USD;N/A;0;App;PENDIENTE;Cali
+500133;02/06/2024;1005;Cdt ;$41.062.892;$;;90;web;En proceso;Bucaramanga
+500307;2024-11-04;1015;CREDITO;$76.353.564;;11,2%;180;OFICINA;APROBADA;
+500180;15-10-2025;1048;Cuenta corriente;$5.130.138;;;-;Web;aprobado;Barranquilla
+500250;2024-11-20; 1034 ;AHORROS;-;$;0;;cajero automatico;Rechazada;medellín
+500087;08/09/2024;1043;ahorros;9,592.91;usd;;;APP;Rechazada;BOGOTA
+500027;14-9-2024;1023;CERTIFICADO DE DEPOSITO;$61.991.584;cop;11.61;N/A;web;rechazada;Medellin
+500353;01/04/2025;9999;Cdt ;$18.154.068;;9.5 %;;ATM;Pendiente;Cali
+500075;23/03/2024; 1017 ;cta corriente;20,635.75;USD;;;Oficina;Aprobada;  Bogotá 
+500275;11/07/2024;1023;crédito;82.431.515,50;$;13,9%;365 dias;cajero automatico;aprobado;Medellin
+500287;08/04/2024;1045;CDT;$28.899.191;cop;11.8 %;360;cajero automatico;PENDIENTE;Cartagena
+500069;2024-10-19;1037;Cdt ;23,446.85;usd;0,107;;cajero automatico;aprobado;Bogota
+500059;2024-06-06; 1007 ;CREDITO;12.260.527;Pesos;10,3%;180;App;En proceso;Cali
+500178;2024-02-27;1020;Cuenta de ahorros;$2.891.013;Pesos;;;oficina;En proceso;  Bogotá 
+500148;2024-03-01;1033;AHORROS;NULL;COP;0;;APP;PENDIENTE;  Bogotá 
+500332;27/12/2024;1043;Cdt ;43.470.273,90;COP;9.91;360;Cajero;rechazada;Cali
+500238;2024-07-21;1014;Cuenta Ahorros;3.017.431,50;COP;;0;Cajero;PENDIENTE;Bogota
+500137;2024/12/15;1019;CDT;78.565.684;;N/A;365 dias;APP;En proceso;Barranquilla
+500206;01.11.2024;1006;Cuenta de ahorros;1,102.08;USD;N/A;;OFICINA;Pendiente;Cali
+500299;2024-11-24;1008;CDT;$2.443.801;$;11,0%;N/A;OFICINA;Aprobada;medellín
+500118;2024/11/21;1044;crédito;675.50;usd;0,082;360;Cajero;Aprobada;b/quilla
+500136;03.10.2024;1048;Cuenta de ahorros; 13.576.111 ;cop;N/A;-;Oficina;Rechazada;cali
+500219;04.03.2024; 1004 ;crédito;$70.182.528;pesos;13.3 %;180;web;PENDIENTE;Medellin
+500182;2024-08-21;1050;CTA_AHORROS;$6.709.024;cop;0;0;Cajero;PENDIENTE;medellín
+500141;15-4-2024;1046;CTA_AHORROS;8.982.107,90;Pesos;N/A;;OFICINA;aprobado;Cartagena
+500270;12/10/2024;1008;CDT;$21.914.655;Pesos;10,0%;365 dias;app movil;Aprobada;Medellin
+500374;2024/6/15;1025;AHORROS; 14.987.283 ;$;;;app movil;En proceso;
+500331;2024-07-05;1013;Crédito;67.675.881,00;$;8,6%;180;app movil;En proceso;  Bogotá 
+500394;2024-06-17;1011;Cuenta de ahorros;$14.484.168;pesos;N/A;-;OFICINA;Rechazada;BOGOTA
+500166;2024-11-16;1050;ahorros; 12.756.219 ;pesos;;-;OFICINA;aprobado;Medellin
+500321;2024/8/20;1019;Cdt ;20,235.16;Dolares;8.4 %;90;web;pend;BOGOTA
+500150;2024/6/18;1050;Certificado de Deposito;26.629.119,00;COP;12.8 %;N/A;cajero automatico;Rechazada;Medellin
+500336;2024/5/24;1031;cta corriente; 10.805.100 ;COP;N/A;;Oficina;Aprobada;Bucaramanga
+500229;1-1-2024;1019;cdt; 2.414.336 ;cop;13.0 %;360;App;aprobado;BOGOTA
+500169;25-11-2024;1044;Cuenta Ahorros;$6.711.031;COP;N/A;-;oficina;Rechazada;Bogota
+500019;22.03.2024;1003;Cuenta de ahorros;2.728.710,25;COP;N/A;0;app movil;En proceso;Barranquilla
+500292;2024-05-16;1041;Certificado de Deposito;-31.198.397,50;cop;13,8%;365 dias;Oficina;Aprobada;BOGOTA
+500026;2024/11/27;1008;cta corriente;15,878.80;usd;0;;APP;En proceso;Cartagena
+500278;26/07/2024;1050;Crédito;$12.442.132;cop;;365 dias;web;Pendiente;Bogota
+500215;19-8-2024; 1046 ;CERTIFICADO DE DEPOSITO;$78.460.696;cop;12.42;180;oficina;Pendiente;
+500201;2024/4/21;1033;Cdt ;$2.345.464;;0,127;N/A;Web;pend;medellín
+500237;04.08.2024;7777;cdt;41.106.424;$;9.76;360;cajero automatico;aprobado;medellín
+500034;2024-10-06;1028;CERTIFICADO DE DEPOSITO;7,984.52;USD;9.25;N/A;cajero automatico;Aprobada;BOGOTA
+500217;2024-03-26;1029;Crédito; 18.391.218 ;pesos;12.2 %;360;cajero automatico;PENDIENTE;
+500046;22/05/2024;1023;ahorros;NULL;;;-;Web;Aprobada;cali
+500337;2024-04-28;1049;cdt;58.802.311;cop;0,085;360;ATM;pend;Cali
+500361;2024-10-11;1021;Cuenta de ahorros; 12.304.083 ;Pesos;;;ATM;APROBADA;cali
+500246;12-11-2024;1014;Cdt ; 39.794.490 ;Pesos;11.06;90;Web;APROBADA;Medellin
+500039;06/07/2025; 8888 ;ahorros;10,389.84;usd;0;-;ATM;Aprobada;Bucaramanga
+500051;21-11-2024; 1023 ;Crédito;24.286.585 COP;$;0,132;N/A;Web;Aprobada;Medellin
+500120;19.11.2025;1022;AHORROS;2.995.033,90;Pesos;0;;Cajero;rechazada;  Bogotá 
+500089;08/11/2024;1022;cta corriente;10.056.762,90;;N/A;-;ATM;APROBADA;cali
+500398;2024/5/5;7777;CERTIFICADO DE DEPOSITO;6,302.81;usd;0,099;365 dias;Cajero;pend;BOGOTA
+500231;23-9-2024;1008;cdt; 29.206.934 ;pesos;N/A;365 dias;cajero automatico;pend;  Bogotá 
+500373;2024-01-26;1027;cta corriente; 7.802.238 ;COP;;0;Web;Rechazada;b/quilla
+500306;2024-05-04;1044;crédito;$88.284.618;pesos;13,1%;365 dias;Web;rechazada;Cartagena
+500130;1-2-2024;1005;Cuenta Corriente;13.623.446,50;pesos;N/A;0;ATM;pend;Bogota
+500033;23/10/2024;1018;cta corriente;12.878.233,25;pesos;N/A;;Oficina;PENDIENTE;Barranquilla
+500320;2024-07-15; 1028 ;Cuenta de ahorros; 13.067.055 ;cop;N/A;-;Web;aprobado;Cartagena
+500014;2024-01-25;1004;Certificado de Deposito;61.580.974,00;pesos;8,4%;;Oficina;aprobado;Cartagena
+500010;2024-04-18;1007;CREDITO;731.12;usd;10,2%;N/A;Cajero;APROBADA;b/quilla
+500318;2025-07-05;1007;Cdt ;$38.977.903;Pesos;0,105;;OFICINA;rechazada;cali
+500265;22/02/2025;1026;Cdt ;NULL;COP;8,7%;180;cajero automatico;PENDIENTE;BOGOTA
+500329;2024/1/17; 1019 ;CORRIENTE;;usd;N/A;-;Oficina;Rechazada;medellín
+500105;2024-12-10;1023;CREDITO;59.033.122;$;11.6 %;;web;pend;  Bogotá 
+500047;14.07.2024;1032;CREDITO;$76.135.224;pesos;8,1%;180;APP;aprobado;Barranquilla
+500258;2024-02-21;1031;cta corriente;8.027.906 COP;;0;;ATM;rechazada;  Bogotá 
+500280;17-11-2024;1039;Cuenta de ahorros;;USD;0;-;app movil;pend;Cali
+500255;2024/9/15;1040;Cuenta Ahorros;$3.665.687;pesos;0;;ATM;Aprobada;medellín
+500001;27/08/2024; 1014 ;crédito;109.345.238;$;13.4 %;360;APP;pend;Cali
+500044;2024-05-13;1002;CDT;31.529.059;$;N/A;N/A;OFICINA;Pendiente;Bogota
+500284;4-11-2024; 1026 ;Cuenta de ahorros; 2.932.806 ;Pesos;;0;APP;Rechazada;  Bogotá 
+500286;12.11.2024;1041;Certificado de Deposito;45.296.826;;10.82;;Web;APROBADA;  Bogotá 
+500172;6-9-2024;1017;CREDITO;40.057.209,90;pesos;12.02;365 dias;ATM;pend;Cartagena
+500298;2023-03-20;1018;CERTIFICADO DE DEPOSITO;$60.339.601;cop;0,134;90;Web;Aprobada;Bucaramanga
+500383;18.09.2024;1023;Cuenta Ahorros;$1.271.047;cop;N/A;0;cajero automatico;rechazada;Medellin
+500011;2023-03-16;1001;cta corriente;3.749.236 COP;COP;;0;OFICINA;Aprobada;Barranquilla
+500271;04/08/2024;1049;Cuenta Ahorros;13,063.40;usd;N/A;0;app movil;En proceso;Medellin
+500241;02.10.2023;1015;cta corriente;$7.043.062;Pesos;N/A;0;OFICINA;rechazada;Barranquilla
+500098;2024-02-09;1042;CTA_AHORROS;$8.017.598;cop;0;0;Cajero;APROBADA;Bogota
+500313;02.11.2024;1032;AHORROS;8,740.89;USD;0;;Oficina;Rechazada;  Bogotá 
+500342;2024/7/20; 1035 ;CREDITO;116.327.027,25;COP;13,7%;360;App;En proceso;b/quilla
+500116;2024-09-27;1008;Cuenta de ahorros;$12.568.254;COP;N/A;;cajero automatico;Pendiente;Cartagena
+500134;8-12-2024;1034;Cdt ;3.934.004;;0,106;365 dias;App;aprobado;BOGOTA
+500021;13/05/2023; 1028 ;ahorros;$8.421.578;$;;0;Web;pend;BOGOTA
+500355;2024-02-11;7777;Cdt ;11,043.66;Dolares;10.0 %;;APP;APROBADA;Bucaramanga
+500177;2024-12-16;1050;CTA_AHORROS;22,712.19;Dolares;;0;OFICINA;APROBADA;cali
+500220;2024/4/15; 1042 ;CERTIFICADO DE DEPOSITO;-;COP;8,6%;365 dias;web;pend;medellín
+500248;2024-10-24;1049;crédito;45.815.428,00;COP;12,7%;N/A;Cajero;En proceso;Medellin
+500411;11-9-2024;1037;ahorros;3.607.478;;;-;web;rechazada;Bucaramanga
+500221;2025-08-03;1046;CTA_AHORROS;$5.963.165;;;-;Cajero;APROBADA;medellín
+500170;2024-12-01;1015;Certificado de Deposito;-41.797.166 ;cop;10,8%;365 dias;App;PENDIENTE;Barranquilla
+500223;2023-07-16;1014;AHORROS;-10.805.060,25;COP;N/A;0;OFICINA;Aprobada;Medellin
+500251;16/10/2024;1045;CDT; 61.542.966 ;cop;8,9%;90;oficina;APROBADA;Bucaramanga
+500308;2024-06-05;1020;crédito;52.004.475,00;cop;13.7 %;360;OFICINA;rechazada;b/quilla
+500392;2024-11-14;1015;crédito;$18.577.287;pesos;8.2 %;365 dias;cajero automatico;Rechazada;Bogota
+500184;10-4-2024;1002;CTA_AHORROS;11.195.721,25;pesos;N/A;;ATM;pend;  Bogotá 
+500115;2024-05-28;1043;cdt;75.892.796 COP;$;9,8%;90;oficina;pend;BOGOTA
+500119;2024-03-08;1048;CORRIENTE;$4.093.431;$;0;;Cajero;pend;BOGOTA
+500028;2024/5/3;7777;CTA_AHORROS;4.979.606 COP;cop;N/A;;ATM;APROBADA;Medellin
+500125;06/02/2024;1030;Cuenta de ahorros;$9.819.006;pesos;0;-;ATM;aprobado;Medellin
+500368;2024/7/28;1015;Credito;$86.379.257;$;9,5%;90;OFICINA;Pendiente;BOGOTA
+500081;4-9-2024; 1044 ;ahorros;7,241.11;usd;N/A;-;App;Aprobada;BOGOTA
+500339;2024-07-11;1031;CERTIFICADO DE DEPOSITO;62.101.291;$;8.14;365 dias;Cajero;APROBADA;b/quilla
+500124;2024-07-24;1019;CDT;$34.275.581;Pesos;0,118;90;oficina;En proceso;b/quilla
+500062;08/01/2024;1028;Crédito;$14.645.094;;;360;web;Aprobada;BOGOTA
+500032;21-3-2024; 1032 ;ahorros;10.589.193,90;Pesos;0;;Web;Aprobada;medellín
+500279;05/07/2024;1017;crédito; 63.582.790 ;COP;8,0%;180;Oficina;rechazada;Medellin
+500148;2024-03-01;1033;AHORROS;NULL;COP;0;;APP;PENDIENTE;  Bogotá 
+500101;15/12/2024;1038;CTA_AHORROS;$6.073.220;$;0;-;web;Pendiente;
+500196;7-9-2024;1049;AHORROS;$9.280.227;pesos;N/A;;web;aprobado;Bucaramanga
+500104;2024-12-16;1019;ahorros;9.840.405 COP;cop;N/A;0;App;Aprobada;cali
+500264;01.06.2024;1025;Credito;115.827.137;Pesos;13.59;;Cajero;Pendiente;b/quilla
+500242;2024/12/26;1025;crédito;$77.374.240;cop;13.7 %;90;oficina;aprobado;Cartagena
+500049;2024/1/8;1005;CTA_AHORROS;8.855.108 COP;pesos;;;web;Pendiente;Cali
+500222;2024-06-17;1041;Cuenta corriente; 2.695.922 ;cop;;-;oficina;pend;Barranquilla
+500193;8-1-2024;1002;cta corriente;24,549.17;usd;N/A;-;cajero automatico;En proceso;cali
+500055;7-1-2024;1007;CREDITO;$79.114.993;$;0,090;180;Oficina;En proceso;  Bogotá 
+500372;21/05/2024;1043;cta corriente;6.702.440;;;-;web;En proceso;b/quilla
+500167;2024-06-19;1032;cdt;-;cop;;360;OFICINA;PENDIENTE;cali
+500131;2024-02-02;1005;Cdt ;$77.236.212;;;;App;En proceso;cali
+500157;2024-05-24;1012;cdt;$74.769.684;cop;11.63;365 dias;Cajero;pend;Bucaramanga
+500152;2024-06-13; 1030 ;CORRIENTE;3.689.661,25;;;-;oficina;rechazada;  Bogotá 
+500191;2024-11-27; 7777 ;crédito;25.452.045,00;COP;9.6 %;180;app movil;Rechazada;Cartagena
+500082;2024-08-28;1002;AHORROS;14.308.904,25;COP;0;0;APP;PENDIENTE;Bucaramanga
+500071;2024-08-19; 1043 ;Cuenta de ahorros;$13.720.146;cop;;-;Oficina;Rechazada;
+500310;17/09/2025;1013;Cdt ;48.504.595;pesos;8.62;180;cajero automatico;rechazada;  Bogotá 
+500414;2024-09-06;1002;CREDITO;;$;13,5%;N/A;APP;Rechazada;Barranquilla
+500200;2024-07-04;1013;Certificado de Deposito;24,610.95;Dolares;;N/A;oficina;PENDIENTE;cali
+500117;2024-10-23;1007;ahorros;12.659.882 COP;cop;0;0;ATM;Pendiente;BOGOTA
+500065;2024-05-17; 1008 ;Certificado de Deposito;;;;;ATM;aprobado;Cartagena
+500108;2024-12-28;1009;CDT;$63.694.483;Pesos;0,111;180;Cajero;APROBADA;Cali
+500002;25/06/2024; 1037 ;AHORROS; 11.604.150 ;pesos;0;-;cajero automatico;APROBADA;Cali
+500407;2024/4/3;1050;CTA_AHORROS;$9.973.167;COP;0;0;Oficina;En proceso;
+500054;2024-08-16;1039;Cdt ; 34.248.242 ;pesos;11.49;N/A;APP;Rechazada;b/quilla
+500179;15.06.2024;1028;Cuenta Ahorros;$5.746.082;COP;N/A;;App;aprobado;
+500358;2024-03-27; 1018 ;Certificado de Deposito;$14.817.229;Pesos;10.1 %;180;Cajero;PENDIENTE;b/quilla
+500012;2024-08-12;1011;CORRIENTE;5.922.349,00;cop;0;;APP;Aprobada;BOGOTA
+500140;08/12/2024;1012;Cuenta de ahorros;$11.427.022;pesos;N/A;;APP;pend;
+500085;2024-11-03;1044;crédito;$106.544.669;pesos;11,2%;90;ATM;Pendiente;Medellin
+500194;2024-07-10;1032;Cuenta de ahorros;$4.921.055;$;;-;App;Rechazada;BOGOTA
+500189;2024-10-04;1015;Cuenta Ahorros;10.949.578;$;N/A;-;ATM;Aprobada;Medellin
+500210;2-8-2024;1044;Certificado de Deposito;66.630.171,90;Pesos;13,3%;365 dias;ATM;pend;Medellin
+500316;12/01/2024;8888;CREDITO; 112.295.526 ;;;365 dias;OFICINA;En proceso;cali
+500322;2024-11-26;1022;Cuenta Ahorros;$3.503.862;cop;N/A;0;APP;En proceso;Cartagena
+500040;11/01/2024; 1015 ;Cuenta de ahorros;9.288.330 COP;pesos;0;;web;PENDIENTE;Bucaramanga
+500357;25.10.2024;1031;Crédito;23.191.663,50;Pesos;0,126;365 dias;Web;pend;b/quilla
+500185;2024-06-15;1029;cdt;sin dato;$;14,0%;180;OFICINA;Rechazada;Barranquilla
+500376;2024/1/18;7777;CERTIFICADO DE DEPOSITO;4.311.031,90;$;11,2%;360;web;Pendiente;
+500245;2024-10-06; 1009 ;Cuenta de ahorros;$10.608.345;$;N/A;;web;Pendiente;Medellin
+500283;10.04.2024;1009;cdt; 67.707.308 ;$;13,1%;365 dias;web;Aprobada;Medellin
+500078;27/12/2024;1014;CDT;$62.623.188;cop;13.6 %;;OFICINA;pend;
+500364;7-7-2024;1027;Crédito;59.059.045 COP;Pesos;;180;oficina;Aprobada;cali
+500409;01/05/2024;1029;Certificado de Deposito;$59.872.735;$;N/A;90;app movil;Pendiente;Bogota
+500420;2024-08-13;1044;Cuenta Corriente;3.070.406;$;N/A;;Oficina;APROBADA;Bogota
+500256;2024-10-28;1018;Cuenta Corriente;$13.208.260;$;;0;OFICINA;APROBADA;Barranquilla
+500243;21-2-2024;1003;ahorros;$4.682.125;$;;;APP;PENDIENTE;cali
+500181;2024-06-14;1035;Cdt ;76.163.487,00;pesos;9.24;360;OFICINA;rechazada;medellín
+500092;27/12/2024;1034;Cdt ;3,833.40;Dolares;;180;cajero automatico;Aprobada;Cartagena
+500239;03/07/2024;1045;Credito;22,513.97;USD;9.27;90;OFICINA;Rechazada;BOGOTA
+500138;2024-05-01;1001;CERTIFICADO DE DEPOSITO;$7.996.143;COP;12,0%;N/A;app movil;pend;medellín
+500013;2024/4/11;1002;Certificado de Deposito;72.967.304,90;cop;N/A;N/A;web;En proceso;Cartagena
+500348;2025-04-16;1038;CORRIENTE; 2.330.016 ;cop;;-;cajero automatico;pend;Bucaramanga
+500139;2024-06-01; 1050 ;Certificado de Deposito;$13.053.654;pesos;13.81;360;Web;Aprobada;Cartagena
+500112;11/11/2024;1047;ahorros;12.735.704,25;$;;0;APP;Pendiente;Bucaramanga
+500390;2024-10-07;1039;Credito;$95.359.746;;11,5%;365 dias;Web;aprobado;Bogota
+500291;3-9-2024; 1042 ;Cdt ;16.712.656,90;COP;13.7 %;180;APP;Pendiente;
+500175;13/03/2024;1031;Credito; 115.304.301 ;pesos;9,8%;N/A;ATM;rechazada;Medellin
+500326;2024/8/14;1045;Crédito;16.191.823 COP;cop;10,6%;365 dias;app movil;pend;b/quilla
+500410;10-6-2024;1006;CERTIFICADO DE DEPOSITO; 20.142.230 ;;9,5%;N/A;APP;En proceso;Medellin
+500290;2024/10/7;1029;Cuenta Ahorros;$9.184.314;Pesos;N/A;;Cajero;Pendiente;  Bogotá 
+500371;2024-03-11;1019;CREDITO;45.690.358;;8.9 %;365 dias;Cajero;APROBADA;cali
+500192;2024/11/25;1044;AHORROS;$966.918;;0;-;Cajero;Rechazada;Bogota
+500004;2024-07-04;1016;Cuenta de ahorros;-;;N/A;0;oficina;PENDIENTE;Medellin
+500156;14-12-2023;1048;Cuenta Ahorros;sin dato;$;N/A;0;Oficina;aprobado;Cartagena
+500216;2024-11-24; 1013 ;cta corriente;-10.659.303;pesos;N/A;;cajero automatico;rechazada;Barranquilla
+500268;20/09/2024;1035;crédito;$98.426.847;Pesos;0,106;360;Web;Aprobada;medellín
+500335;2024-07-14;1046;Cuenta Ahorros;$5.544.806;COP;0;;ATM;Aprobada;Bogota
+500345;2024-04-15;1026;Cdt ;$44.092.232;;13.1 %;90;Web;APROBADA;medellín
+500090;24/05/2024;1005;AHORROS;12.832.012;Pesos;0;;cajero automatico;rechazada;
+500197;13/03/2024;1014;crédito;$46.793.519;pesos;10,6%;;web;APROBADA;medellín
+500423;27/12/2023; 1017 ;CTA_AHORROS;210.428,00;Pesos;N/A;0;OFICINA;Pendiente;Barranquilla
+500302;2024-04-08;1028;Cuenta Ahorros;$11.893.670;cop;N/A;;Cajero;rechazada;Cartagena
+500160;20/05/2024;1018;Certificado de Deposito;38.396.953;Pesos;8,5%;;Web;rechazada;cali
+500301;2024-04-15;1025;Cdt ;16,193.57;USD;0,123;N/A;APP;APROBADA;  Bogotá 
+500408;2024-07-14;1035;crédito; 82.562.060 ;cop;0,123;360;app movil;En proceso;Bogota
+500080;2-2-2024;1006;Credito;13,641.46;USD;11.5 %;90;oficina;En proceso;  Bogotá 
+500260;3-8-2024;1006;Certificado de Deposito;52.105.212,50;Pesos;10,2%;;web;rechazada;Bucaramanga
+500228;11.01.2024;1046;Cuenta corriente; 6.594.579 ;cop;N/A;-;OFICINA;rechazada;Bucaramanga
+500218;10/05/2024;1030;CORRIENTE;9.004.221;$;0;-;App;En proceso;cali
+500042;2024/10/14;1008;CERTIFICADO DE DEPOSITO;$40.526.088;COP;9.64;;app movil;Pendiente;Cali
+500281;2024/8/11;1007;CORRIENTE;-;COP;;;Oficina;Aprobada;cali
+500405;03/07/2024;1016;CREDITO;$44.853.668;;0,139;360;OFICINA;aprobado;Bogota
+500417;2024-12-05;1038;Cuenta corriente;2.386.490,00;pesos;N/A;0;App;rechazada;  Bogotá 
+500267;21/07/2024;1035;cdt;8,102.34;USD;9,3%;;APP;pend;
+500236;09.12.2024;1009;Credito;18.107.976;;0,115;365 dias;app movil;aprobado;b/quilla
+500232;2024-11-20;1023;CTA_AHORROS;$8.167.044;cop;0;;app movil;pend;Cali
+500412;13/06/2024;1038;ahorros;2.388.293,00;COP;N/A;0;OFICINA;aprobado;Cali
+500354;2-9-2024;1030;AHORROS;9.885.342 COP;COP;N/A;0;cajero automatico;En proceso;
+500257;18/08/2024;1049;CORRIENTE;N/A;Pesos;N/A;-;Web;aprobado;b/quilla
+500344;2024-12-03;1013;Cuenta corriente;14.459.870,90;;;-;OFICINA;APROBADA;Bucaramanga
+500356;21.08.2024;1005;CDT;$33.668.051;COP;8.15;;ATM;En proceso;
+500297;2024/11/26;1020;Cuenta Ahorros;$1.989.322;Pesos;;0;web;aprobado;Bucaramanga
+500363;26/10/2023;1049;Cuenta de ahorros;$657.692;;0;;APP;PENDIENTE;Bucaramanga
+500305;2024-04-02;1011;Certificado de Deposito;56.479.255,90;Pesos;11.3 %;N/A;ATM;Aprobada;Cali
+500190;2024/7/17;1011;crédito;$32.536.584;pesos;10.97;180;Oficina;Pendiente;b/quilla
+500168;18.10.2024;1020;Certificado de Deposito;64.596.891;;11,5%;90;APP;pend;Barranquilla
+500328;2024-04-10;1006;Cuenta Ahorros;8.704.127 COP;$;0;;app movil;rechazada;cali
+500203;2024-12-19;1033;Crédito;47.607.656,50;COP;10.53;90;APP;PENDIENTE;cali
+500109;27/02/2024;1042;CDT;N/A;cop;0,089;360;app movil;PENDIENTE;b/quilla
+500083;2024-05-01;1024;Cuenta de ahorros;;Pesos;;0;web;APROBADA;BOGOTA
+500386;2024-04-04;1013;ahorros;19,220.76;Dolares;N/A;;ATM;APROBADA;medellín
+500346;2024/8/1;1028;CORRIENTE;$3.201.976;cop;;0;Cajero;Rechazada;Cali
+500325;08.03.2024;1026;CORRIENTE;4.357.558;cop;N/A;;ATM;aprobado;BOGOTA
+500385;2024-10-23;1037;CTA_AHORROS;9.713.659;cop;;-;ATM;En proceso;  Bogotá 
+500060;25.10.2024; 1026 ;Cuenta de ahorros;7.784.912,25;;0;0;oficina;En proceso;Bucaramanga
+500293;2024-04-26;1004;cta corriente;2.105.455,00;cop;;;APP;rechazada;cali
+500096;2024-11-09;1021;Cdt ;$33.852.741;Pesos;12.82;N/A;Web;Rechazada;Medellin
+500367;2024-11-08; 1049 ;Crédito;46.825.065,50;$;10,6%;;App;rechazada;BOGOTA
+500401;10-4-2024;1006;Certificado de Deposito;8.864.973,50;pesos;13.40;180;ATM;APROBADA;Barranquilla
+500421;2024-07-14;1046;Cuenta Ahorros;$5.544.806;COP;0;;ATM;Aprobada;Bogota
+500095;4-2-2024;1007;Cuenta de ahorros;-12.217.511 ;Pesos;N/A;0;APP;pend;cali
+500406;26/03/2024;1042;AHORROS;12.160.586,90;cop;;0;Oficina;En proceso;medellín
+500404;20/10/2024;1018;cta corriente;8.494.772;cop;;-;App;Aprobada;Bucaramanga
+500162;2024-12-26; 1030 ;CREDITO; 61.917.780 ;COP;8,2%;N/A;Web;Rechazada;medellín
+500106;2024-09-22; 1008 ;cta corriente;482.578 COP;$;0;;APP;APROBADA;Medellin
+500128;2024-08-16;1035;cdt;6.725.768,90;$;11.0 %;365 dias;Cajero;PENDIENTE;
+500113;2024-02-04;1024;CREDITO;113.232.210,50;Pesos;8,9%;90;cajero automatico;PENDIENTE;medellín
+500343;2024-06-10; 1046 ;CTA_AHORROS;$4.655.085;cop;;0;Oficina;pend;Barranquilla
+500381;20/06/2024;1045;CTA_AHORROS;$10.428.372;;0;;APP;En proceso;Medellin
+500415;22-7-2024; 1023 ;crédito;8.154.087 COP;COP;0,126;;cajero automatico;APROBADA;Medellin
+500359;2024-07-04;1040;crédito;$80.055.911;;10.76;N/A;Oficina;Rechazada;b/quilla
+500077;23.01.2024;1003;crédito;11,945.21;usd;11.2 %;365 dias;Web;Pendiente;
+500253;2024-11-10;1048;Cuenta Ahorros;7.633.839 COP;cop;;;APP;rechazada;Barranquilla
+500295;2024-04-18;1015;Cdt ;-67.357.534;Pesos;12.31;N/A;App;Rechazada;  Bogotá 
+500093;10-9-2024;1035;ahorros;$7.190.594;COP;N/A;;APP;aprobado;Barranquilla
+500007;2024-02-18;1001;Cuenta corriente;23,973.97;Dolares;0;-;web;Rechazada;BOGOTA
+500333;19/03/2024;1043;CDT;$79.054.529;COP;13.7 %;365 dias;APP;rechazada;
+500323;2024-06-03;1001;CTA_AHORROS;$6.053.563;cop;N/A;-;Cajero;Pendiente;medellín
+500272;23/10/2024;1045;Crédito;$105.684.996;$;;90;web;rechazada;medellín
+500413;23.02.2024; 1045 ;CTA_AHORROS;3,304.54;usd;N/A;0;Cajero;En proceso;Medellin
+500388;21-4-2024;1017;CREDITO;94.085.540,00;cop;N/A;365 dias;web;Aprobada;Cartagena
+500122;10-8-2024;1045;Certificado de Deposito;$1.601.135;pesos;13.2 %;;web;Aprobada;  Bogotá 
+500384;17-11-2024;1029;CTA_AHORROS;$3.639.304;Pesos;N/A;-;Cajero;Rechazada;medellín
+500402;18/05/2024;1034;crédito;104.085.461,90;cop;8.2 %;180;Web;En proceso;b/quilla
+500285;2024-07-06;1039;CTA_AHORROS; 8.882.344 ;Pesos;;-;app movil;Pendiente;BOGOTA
+500149;2024-05-02;1050;crédito;$87.798.609;$;N/A;365 dias;app movil;APROBADA;cali
+500397;2023/6/5;1044;CORRIENTE;$3.421.231;pesos;N/A;;oficina;En proceso;Cali
+500048;2024-05-10;8888;Certificado de Deposito;$28.352.186;;8,2%;;oficina;En proceso;Cali
+500146;2024/8/24;1021;Cuenta de ahorros;10,556.70;Dolares;N/A;;oficina;aprobado;  Bogotá 
+500173;03/09/2024;1024;Cuenta Ahorros;14.650.248;Pesos;N/A;;APP;Aprobada;BOGOTA
+500234;2024-12-07;1009;cdt;7.118.262;$;10,7%;360;cajero automatico;En proceso;b/quilla
+500142;2024-06-15;1005;cdt;31.446.430;cop;8,3%;360;Cajero;Pendiente;b/quilla
+500198;2024-04-14;1049;CDT;31.502.951 COP;Pesos;13,8%;;Oficina;Rechazada;BOGOTA
+500363;26/10/2023;1049;Cuenta de ahorros;$657.692;;0;;APP;PENDIENTE;Bucaramanga
+500224;13-10-2024;1045;crédito;115.300.157 COP;cop;13,2%;;Oficina;Pendiente;
+500304;13/07/2024;7777;Certificado de Deposito; 62.870.813 ;;12,0%;365 dias;App;En proceso;medellín
+500209;21-10-2024;1050;Cuenta de ahorros;6.268.602;$;0;-;Web;Aprobada;Medellin
+500057;14/10/2024; 1015 ;CORRIENTE;6.833.362 COP;cop;N/A;;app movil;pend;Barranquilla
+500017;2024-06-03;1014;CREDITO;6,456.51;Dolares;13.4 %;180;ATM;Pendiente;Barranquilla
+500377;23-9-2024; 1034 ;CERTIFICADO DE DEPOSITO;47.128.152 COP;COP;9.27;180;Cajero;En proceso;  Bogotá 
+500214;2024-02-13; 1007 ;Cdt ;$15.410.701;cop;0,119;365 dias;APP;En proceso;  Bogotá 
+500226;20/12/2024;1046;crédito;$57.379.470;COP;N/A;360;oficina;rechazada;Barranquilla
+500030;23/12/2024;1045;CERTIFICADO DE DEPOSITO;62.221.217;Pesos;0,136;90;cajero automatico;pend;BOGOTA
+500110;2024/10/2;1048;Crédito;$85.566.362;pesos;11.0 %;N/A;Web;Aprobada;Cartagena
+500063;15-10-2024;1037;CDT;$67.331.919;pesos;13.1 %;N/A;web;rechazada;Cartagena
+500111;6-9-2024;1011;CERTIFICADO DE DEPOSITO;$73.279.280;COP;;360;App;En proceso;BOGOTA
+500205;2024/7/20;1042;Cuenta Ahorros;10.818.707 COP;cop;;-;APP;Rechazada;Cartagena
+500154;03.04.2024;7777;Cdt ;-8.816.628,25;pesos;10.38;;cajero automatico;pend;Bogota
+500314;2024-11-17;1040;CTA_AHORROS;$6.551.971;Pesos;0;;APP;Aprobada;b/quilla
+500263;2024-11-18;1028;Cdt ; 35.512.763 ;pesos;0,127;N/A;app movil;pend;BOGOTA
+500211;2024-11-02;1002;crédito;$69.475.728;;;N/A;ATM;En proceso;Cartagena
+500009;2024-07-14;1034;CORRIENTE;$6.084.361;$;;;APP;aprobado;Barranquilla
+500102;2024/6/18;1003;CERTIFICADO DE DEPOSITO;$58.964.224;Pesos;11.8 %;90;app movil;En proceso;Barranquilla
+500143;27/09/2024; 1027 ;Cuenta de ahorros;$853.817;$;;0;Oficina;Pendiente;cali
+500038;2024/11/14;1037;CTA_AHORROS;$6.784.611;$;0;;Cajero;rechazada;BOGOTA
+500060;25.10.2024; 1026 ;Cuenta de ahorros;7.784.912,25;;0;0;oficina;En proceso;Bucaramanga
+500068;14/11/2024;1024;Certificado de Deposito; 51.132.338 ;Pesos;10.3 %;180;cajero automatico;Rechazada;cali
+500260;3-8-2024;1006;Certificado de Deposito;52.105.212,50;Pesos;10,2%;;web;rechazada;Bucaramanga
+500187;14-5-2024;1040;crédito;$54.205.787;;9.81;180;app movil;PENDIENTE;Cali
+500319;2024-08-26;1034;CTA_AHORROS;;Pesos;N/A;;App;Pendiente;medellín
+500274;2024-07-05;1002;ahorros;$11.727.408;Pesos;N/A;;web;Rechazada;Bucaramanga
+500317;06/02/2024; 7777 ;CERTIFICADO DE DEPOSITO;3.834.293,00;Pesos;10,6%;360;oficina;Aprobada;Cartagena
+500084;27.03.2024;1039;Cuenta Corriente;;usd;N/A;;Oficina;pend;cali
+500121;2024-08-23;1026;Cuenta Ahorros;1.936.336,25;$;N/A;;oficina;PENDIENTE;medellín
+500422;2024-05-12;1048;CDT;$44.490.033;Pesos;0,088;180;app movil;aprobado;Cartagena
+500351;2024-02-07;1004;Certificado de Deposito;35.101.509,90;$;8,8%;180;App;En proceso;Cali
+500419;23.01.2024;1034;CDT;$21.091.805;Pesos;0,085;365 dias;cajero automatico;APROBADA;Barranquilla
+500147;2024-10-12;1034;Crédito;83.639.134,90;$;0,084;180;App;aprobado;Cali
+500145;01/10/2024;1034;CORRIENTE;5,605.59;Dolares;N/A;-;OFICINA;En proceso;cali
+500396;2024/8/22; 1050 ;Cdt ; 76.033.808 ;Pesos;0,083;365 dias;ATM;Pendiente;Cartagena
+500249;02/12/2024; 7777 ;Cuenta Ahorros;2.028.095,90;$;0;-;cajero automatico;Rechazada;Bucaramanga
+500282;2024/12/13;1034;CTA_AHORROS;$950.006;Pesos;N/A;0;Web;Pendiente;medellín
+500360;2024-08-01; 1028 ;cta corriente;$5.544.445;Pesos;N/A;-;ATM;aprobado;
+500094;21/09/2024;1017;CORRIENTE;8.019.130 COP;pesos;;;web;APROBADA;Bucaramanga
+500393;25/09/2024;1001;Credito;$4.841.651;Pesos;10,0%;90;app movil;Pendiente;  Bogotá 
+500123;20-11-2024;7777;ahorros;1.973.695,25;Pesos;N/A;;app movil;Rechazada;b/quilla
+500235;2024/3/23;1008;Credito;$24.316.548;Pesos;13,3%;90;cajero automatico;APROBADA;cali
+500114;2024-12-08;1018;CREDITO;26.641.248;pesos;13.9 %;180;cajero automatico;aprobado;BOGOTA
+500416;2024-10-10;1010;CDT; 52.045.593 ;COP;;;cajero automatico;pend;medellín
+500067;2024/11/11;1024;CDT;44.129.606;;N/A;360;Oficina;PENDIENTE;b/quilla
+500403;2024-06-11;1020;Certificado de Deposito; 48.252.396 ;pesos;12.8 %;360;oficina;rechazada;medellín
+500126;2025-12-21;1003;Certificado de Deposito;46.304.145 COP;$;9.1 %;360;app movil;PENDIENTE;b/quilla
+500132;08/11/2024;1048;cdt;78.274.138 COP;COP;9.57;180;cajero automatico;Pendiente;b/quilla
+500247;15/11/2024;8888;cdt;$44.646.856;Pesos;13,9%;365 dias;web;PENDIENTE;cali
+500391;2024-07-28;1028;Cuenta de ahorros;$13.238.727;;N/A;0;APP;pend;medellín
+500100;14-11-2024;1038;crédito;114.873.429,90;cop;;180;cajero automatico;Rechazada;b/quilla
+500387;07.07.2024;1028;cdt;$14.252.608;cop;;N/A;app movil;rechazada;Cali
+500199;2024-03-13;1007;cdt;63.909.932 COP;cop;10.96;;cajero automatico;Pendiente;Bucaramanga
+500159;2024-07-15; 1035 ;CTA_AHORROS;$10.363.721;;;;ATM;APROBADA;b/quilla
+500338;2024-05-12;1048;CDT;$44.490.033;Pesos;0,088;180;app movil;aprobado;Cartagena
+500303;2024/9/22; 1006 ;CERTIFICADO DE DEPOSITO;$31.075.165;COP;12.35;365 dias;OFICINA;Pendiente;Cartagena
+500153;15/08/2024;1021;CERTIFICADO DE DEPOSITO;$29.237.881;;0,126;;Oficina;rechazada;Medellin
+500076;27-5-2024;9999;Certificado de Deposito;48.473.995 COP;pesos;0,102;N/A;Cajero;rechazada;
+500269;07/09/2024;1038;AHORROS;$8.260.314;Pesos;N/A;-;ATM;Rechazada;cali
+500366;24/11/2024;1005;ahorros;10.313.882,00;COP;;0;app movil;aprobado;cali
+500244;2024-11-19;1030;Cdt ;$40.219.102;COP;0,081;180;ATM;Pendiente;Cartagena
+500395;2024-08-25;1002;CORRIENTE;16,451.98;USD;0;;app movil;pend;Cartagena
+500036;2023-09-17;1022;Cdt ; 35.281.348 ;COP;0,098;180;web;PENDIENTE;BOGOTA
+500334;2024-07-03; 1015 ;Cdt ;NULL;$;10.38;365 dias;Oficina;APROBADA;
+500315;26.10.2024;1033;CORRIENTE; 4.978.963 ;cop;N/A;0;Web;PENDIENTE;Cali
+500261;23-8-2024;1050;ahorros;$7.743.272;Pesos;;-;App;APROBADA;Bogota
+500018;2-8-2024;1025;Cdt ;$32.384.580;cop;11.9 %;;app movil;En proceso;
+500064;2024-11-14;1006;CTA_AHORROS;NULL;Pesos;N/A;-;App;PENDIENTE;cali
+500066;06/08/2024;1049;Cdt ;48.057.065;cop;12.68;365 dias;web;pend;cali
+500309;2024-11-04;1021;Cuenta corriente;$9.704.997;COP;;0;web;APROBADA;medellín
+500389;28.02.2024;1016;Crédito; 94.688.983 ;Pesos;12.7 %;365 dias;oficina;Rechazada;
+500230;2024-03-16;1035;Cdt ;64.395.081;COP;13,7%;N/A;App;rechazada;Cali
+500174;2024-11-14;1007;CTA_AHORROS;$4.018.625;pesos;;0;web;rechazada;Bucaramanga
+500352;24-5-2024;1047;Cuenta corriente;$4.529.400;Pesos;0;;App;Pendiente;b/quilla
+500204;07.12.2024;1008;CERTIFICADO DE DEPOSITO;34.005.777 COP;$;12.67;;cajero automatico;aprobado;  Bogotá 
+500158;2024/12/28;1012;Cuenta Ahorros;11.675.042,00;pesos;N/A;;App;Aprobada;Bogota
+500378;9-12-2024;1013;CDT;49.096.276;Pesos;N/A;365 dias;app movil;Aprobada;cali
+500202;2024-11-21;1013;Cuenta Ahorros;13.587.245;pesos;N/A;0;Web;aprobado;b/quilla
+500153;15/08/2024;1021;CERTIFICADO DE DEPOSITO;$29.237.881;;0,126;;Oficina;rechazada;Medellin
+500024;22/12/2024;1043;ahorros; 1.091.943 ;;0;0;OFICINA;aprobado;
+500050;2024-12-26;1030;CDT;72.919.520 COP;pesos;13,8%;180;Web;Aprobada;  Bogotá 
+500195;14-11-2024;1037;CTA_AHORROS;$5.358.209;cop;0;0;Web;Aprobada;
+500056;7-5-2024;1007;Certificado de Deposito;5.357.374,25;$;11,4%;180;web;Pendiente;BOGOTA
+500296;2024-06-03;1001;Cuenta Corriente;10.429.189,00;pesos;N/A;;web;APROBADA;medellín
+500161;16/06/2024;1002;Certificado de Deposito; 75.510.777 ;COP;N/A;90;Web;APROBADA;medellín
+500053;2024-07-23;1025;Cdt ;36.100.170;COP;11.96;90;oficina;rechazada;Bogota
+500103;2024-11-28;1026;CDT;40.484.475 COP;;9,1%;;App;Aprobada;cali
+500276;2024-02-05;1004;CDT;22.814.787;pesos;10.34;;Oficina;Rechazada;Barranquilla
+500399;01/05/2024;1034;Cdt ; 60.924.321 ;Pesos;10.3 %;180;ATM;PENDIENTE;Bucaramanga
+500330;2024/9/8;1022;Credito;$27.691.384;pesos;11,6%;360;web;Rechazada;Bucaramanga
+500171;23/12/2024; 1024 ;Certificado de Deposito;$55.764.084;cop;9.08;;App;APROBADA;Barranquilla
+500365;2024-11-23;1040;CTA_AHORROS; 10.688.355 ;Pesos;0;;ATM;Aprobada;
+500212;18-3-2024;1011;Cdt ;2.284.877,50;Pesos;9.4 %;365 dias;Web;Aprobada;Barranquilla
+500061;2024-05-26;1045;ahorros;-3.041.963;COP;0;;Web;Aprobada;Cartagena
+500213;2024-02-23;1035;cta corriente;10.837.735,00;pesos;N/A;;app movil;En proceso;cali
+500277;2024-04-14; 1023 ;AHORROS;12.351.845,90;$;0;0;cajero automatico;APROBADA;Cali
+500311;2024-12-11;1028;Cdt ;;USD;8.98;N/A;App;Pendiente;cali
+500015;2024-02-21;1045;ahorros;$5.649.088;pesos;;0;cajero automatico;APROBADA;  Bogotá 
+500127;2024-11-27;1046;AHORROS;7.993.963 COP;pesos;0;0;OFICINA;En proceso;b/quilla
+500052;03.03.2024;1042;Cdt ;15.515.157;cop;10.04;N/A;oficina;rechazada;
+500045;2024-05-19;1044;Cdt ;79.062.312,00;;12,0%;N/A;Cajero;rechazada;Bucaramanga
+500176;15-5-2024; 1046 ;Cuenta de ahorros;1.712.832,25;pesos;;0;Cajero;rechazada;cali
+500022;2024-11-25;1014;CTA_AHORROS;$11.354.955;$;0;-;APP;APROBADA;Cartagena
+500144;2024-11-28;1002;Cuenta Ahorros;407.818,25;COP;;-;web;Pendiente;Bogota
+500208;2024/1/17; 1049 ;ahorros;$11.177.444;Pesos;N/A;;Cajero;PENDIENTE;Bogota
+500035;05/07/2025;1043;CERTIFICADO DE DEPOSITO; 54.126.510 ;$;0,087;N/A;App;aprobado;Barranquilla
+500016;4-2-2024; 1050 ;Certificado de Deposito;42.557.864,50;pesos;9,4%;90;cajero automatico;En proceso;Medellin
+500289;2024/11/23; 1036 ;Cuenta de ahorros;$4.250.929;$;N/A;;Oficina;Rechazada;Bogota
+500188;2024-10-10;1048;CORRIENTE;$11.463.110;COP;N/A;0;OFICINA;Aprobada;Cali

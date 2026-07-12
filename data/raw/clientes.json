@@ -1,0 +1,853 @@
+[
+  {
+    "id_cliente": 1001,
+    "nombre": "María José Álvarez",
+    "tipo_documento": "cc",
+    "numero_documento": "183324205",
+    "segmento": "Premium",
+    "ciudad": "Cali",
+    "fecha_alta": "2023-10-22",
+    "contacto": {
+      "email": "maria.jose.alvarez@hotmail.com",
+      "telefono": "3255808277"
+    },
+    "productos": [
+      "Credito",
+      "CDT",
+      "Cuenta Ahorros"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": "1002",
+    "nombre": "Daniela Suarez",
+    "tipo_documento": "C.C.",
+    "numero_documento": "670.318.744",
+    "segmento": "personal",
+    "ciudad": "  Bogotá ",
+    "fecha_alta": "02/02/2021",
+    "contacto": {
+      "telefono": "+57 328 679 1978"
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "CDT"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1003,
+    "nombre": "Ana Maria Rojas",
+    "tipo_documento": "C.C.",
+    "numero_documento": "533496827",
+    "segmento": "Personal",
+    "ciudad": "b/quilla",
+    "fecha_alta": "01-jul-2020",
+    "contacto": {
+      "email": "ana.maria.rojas@empresa.com.co",
+      "telefono": "3290597940"
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "Cuenta Corriente"
+    ],
+    "activo": "Si"
+  },
+  {
+    "id_cliente": 1004,
+    "nombre": "Isabella Diaz",
+    "tipo_documento": "C.C.",
+    "numero_documento": "342601915",
+    "segmento": "premium",
+    "ciudad": "medellín",
+    "fecha_alta": "7-1-2022",
+    "contacto": {
+      "email": "isabella.diaz@empresa.com.co",
+      "telefono": "3138849654"
+    },
+    "productos": [
+      "Cuenta Ahorros"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1005,
+    "nombre": "Jorge  Mendoza",
+    "tipo_documento": "NIT",
+    "numero_documento": "151504661",
+    "segmento": "Premium",
+    "ciudad": "b/quilla",
+    "fecha_alta": "09-ago-2022",
+    "contacto": {
+      "telefono": "3187164926"
+    },
+    "productos": [
+      "Credito",
+      "Cuenta Ahorros"
+    ],
+    "activo": "NO"
+  },
+  {
+    "id_cliente": 1006,
+    "nombre": "SANTIAGO VARGAS",
+    "tipo_documento": "cc",
+    "numero_documento": "147468722",
+    "segmento": "Personal",
+    "ciudad": "BOGOTA",
+    "fecha_alta": "10-7-2022",
+    "contacto": {
+      "email": "santiago.vargas@outlook.com",
+      "telefono": "(607) 732 7764"
+    },
+    "productos": [
+      "CDT",
+      "Cuenta Corriente",
+      "Cuenta Ahorros"
+    ],
+    "activo": "No"
+  },
+  {
+    "id_cliente": 1007,
+    "nombre": "SANTIAGO VARGAS",
+    "tipo_documento": "NIT",
+    "numero_documento": "521686778",
+    "segmento": "Premium",
+    "ciudad": "Manizales",
+    "fecha_alta": "11/07/2021",
+    "contacto": {
+      "email": "santiago.vargas@hotmail.com",
+      "telefono": ""
+    },
+    "activo": "No"
+  },
+  {
+    "id_cliente": 1008,
+    "nombre": "LUCIA FERNANDEZ",
+    "tipo_documento": "CC",
+    "numero_documento": "450758146",
+    "segmento": "premium",
+    "ciudad": "BOGOTA",
+    "fecha_alta": "2022-08-07",
+    "contacto": {
+      "telefono": "3269076238"
+    },
+    "productos": [
+      "Credito",
+      "Cuenta Ahorros"
+    ],
+    "activo": "Si"
+  },
+  {
+    "id_cliente": "1009",
+    "nombre": "Gabriela Nino",
+    "segmento": "personal",
+    "ciudad": "Barranquilla",
+    "fecha_alta": "2021-08-18",
+    "contacto": {
+      "email": "gabriela.nino@outlook.com",
+      "telefono": ""
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "CDT",
+      "Cuenta Corriente"
+    ],
+    "activo": "NO"
+  },
+  {
+    "id_cliente": "1010",
+    "nombre": "Gabriela Nino",
+    "tipo_documento": "CC",
+    "numero_documento": "370668724",
+    "segmento": "Personal",
+    "ciudad": "medellín",
+    "fecha_alta": "02/12/2023",
+    "contacto": {
+      "telefono": "+57 328 989 5588"
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "Cuenta Corriente",
+      "CDT"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1011,
+    "nombre": "SANTIAGO VARGAS",
+    "tipo_documento": "NIT",
+    "numero_documento": "339147326",
+    "segmento": "premium",
+    "ciudad": "cali",
+    "fecha_alta": "2022-11-27",
+    "contacto": {
+      "telefono": "(602) 560 7689"
+    },
+    "productos": [
+      "Cuenta Corriente"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": 1012,
+    "nombre": "Sofia Ramirez ",
+    "tipo_documento": "NIT",
+    "numero_documento": "835.079.380",
+    "segmento": "premium",
+    "ciudad": " Cúcuta",
+    "fecha_alta": "05-sep-2022",
+    "contacto": {
+      "email": "sofia.ramirez@empresa.com.co",
+      "telefono": "+57 324 493 2334"
+    },
+    "productos": [
+      "Cuenta Corriente",
+      "CDT"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1013,
+    "nombre": "Camila Ortiz",
+    "tipo_documento": "C.C.",
+    "numero_documento": "107.445.646",
+    "segmento": "premium",
+    "ciudad": "Pereira",
+    "fecha_alta": "04-oct-2019",
+    "contacto": {
+      "telefono": ""
+    },
+    "productos": [
+      "CDT",
+      "Cuenta Corriente",
+      "Credito"
+    ],
+    "activo": "NO"
+  },
+  {
+    "id_cliente": 1014,
+    "nombre": "SANTIAGO VARGAS",
+    "tipo_documento": "nit",
+    "numero_documento": "291311700",
+    "segmento": "Personal",
+    "ciudad": "Cali",
+    "fecha_alta": "2019-01-11",
+    "productos": [
+      "Credito",
+      "CDT",
+      "Cuenta Ahorros"
+    ],
+    "activo": "Si"
+  },
+  {
+    "id_cliente": "1015",
+    "nombre": "Daniela Suarez",
+    "tipo_documento": "CC",
+    "numero_documento": "81551884",
+    "segmento": "Personal",
+    "ciudad": "  Bogotá ",
+    "fecha_alta": "23-jul-2019",
+    "productos": [
+      "Cuenta Ahorros"
+    ],
+    "activo": "No"
+  },
+  {
+    "id_cliente": 1016,
+    "nombre": "Nicolas  Romero",
+    "tipo_documento": "CC",
+    "numero_documento": "907703101",
+    "segmento": "Premium",
+    "ciudad": "Bogota",
+    "fecha_alta": "22/07/2021",
+    "productos": [
+      "Credito",
+      "Cuenta Ahorros",
+      "CDT"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": "1017",
+    "nombre": "  carlos gomez ",
+    "tipo_documento": "NIT",
+    "numero_documento": "372.704.373",
+    "ciudad": "  Bogotá ",
+    "fecha_alta": "24/09/2021",
+    "contacto": {
+      "email": "carlos.gomez@empresa.com.co",
+      "telefono": "+57 316 864 1959"
+    },
+    "activo": "NO"
+  },
+  {
+    "id_cliente": 1018,
+    "nombre": "Valentina Ruiz",
+    "tipo_documento": "CC",
+    "numero_documento": "889034069",
+    "segmento": "Premium",
+    "ciudad": "b/quilla",
+    "fecha_alta": "16-6-2019",
+    "contacto": {
+      "email": "valentina.ruiz@outlook.com",
+      "telefono": "+57 314 871 7954"
+    },
+    "productos": [
+      "Cuenta Corriente",
+      "CDT",
+      "Cuenta Ahorros"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": "1019",
+    "nombre": "Jorge  Mendoza",
+    "tipo_documento": "NIT",
+    "numero_documento": "572.265.678",
+    "segmento": "Personal",
+    "ciudad": "Bogota",
+    "fecha_alta": "2021-03-12",
+    "contacto": {
+      "email": "jorge.mendoza@outlook.com",
+      "telefono": "3155751377"
+    },
+    "productos": [
+      "Cuenta Corriente",
+      "Cuenta Ahorros"
+    ],
+    "activo": "No"
+  },
+  {
+    "id_cliente": "1020",
+    "nombre": "Ana Maria Rojas",
+    "tipo_documento": "NIT",
+    "numero_documento": "876.641.426",
+    "segmento": "Premium",
+    "ciudad": "Pereira",
+    "fecha_alta": "14-12-2021",
+    "contacto": {
+      "email": "ana.maria.rojas@empresa.com.co",
+      "telefono": "3107217439"
+    },
+    "productos": [
+      "CDT"
+    ],
+    "activo": 0
+  },
+  {
+    "id_cliente": 1021,
+    "nombre": "Daniela Suarez",
+    "segmento": "Premium",
+    "ciudad": "Pereira",
+    "fecha_alta": "2023-03-19",
+    "contacto": {
+      "email": "daniela.suarez@empresa.com.co",
+      "telefono": ""
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "Credito",
+      "Cuenta Corriente"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1022,
+    "nombre": "LUCIA FERNANDEZ",
+    "tipo_documento": "C.C.",
+    "numero_documento": "446.669.194",
+    "ciudad": "medellín",
+    "fecha_alta": "18-8-2022",
+    "contacto": {
+      "email": "lucia.fernandez@outlook.com",
+      "telefono": ""
+    },
+    "productos": [
+      "Credito",
+      "Cuenta Corriente"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": "1023",
+    "nombre": "Gabriela Nino",
+    "tipo_documento": "NIT",
+    "numero_documento": "200.660.305",
+    "segmento": "personal",
+    "ciudad": " Cúcuta",
+    "fecha_alta": "2023-11-11",
+    "contacto": {
+      "email": "gabriela.nino@outlook.com",
+      "telefono": "(603) 515 1432"
+    },
+    "productos": [
+      "CDT",
+      "Credito",
+      "Cuenta Corriente"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": 1024,
+    "nombre": "Isabella Diaz",
+    "segmento": "Personal",
+    "ciudad": "medellín",
+    "fecha_alta": "23/12/2021",
+    "contacto": {
+      "email": "isabella.diaz@outlook.com",
+      "telefono": "3275015557"
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "Cuenta Corriente",
+      "CDT"
+    ],
+    "activo": "NO"
+  },
+  {
+    "id_cliente": "1025",
+    "nombre": "Felipe  Cardenas",
+    "tipo_documento": "NIT",
+    "numero_documento": "620.931.459",
+    "segmento": "premium",
+    "ciudad": "Bogota",
+    "fecha_alta": "02-abr-2022",
+    "productos": [
+      "Cuenta Ahorros"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": 1026,
+    "nombre": "Gabriela Nino",
+    "tipo_documento": "CC",
+    "numero_documento": "309617176",
+    "segmento": "Premium",
+    "ciudad": " Cúcuta",
+    "fecha_alta": "13-7-2019",
+    "contacto": {
+      "email": "gabriela.nino@empresa.com.co",
+      "telefono": "(602) 211 3244"
+    },
+    "productos": [
+      "CDT"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": "1027",
+    "nombre": "Isabella Diaz",
+    "tipo_documento": "C.C.",
+    "numero_documento": "1044350751",
+    "segmento": "personal",
+    "ciudad": "b/quilla",
+    "fecha_alta": "24-12-2019",
+    "contacto": {
+      "email": "isabella.diaz@empresa.com.co",
+      "telefono": "+57 313 648 7687"
+    },
+    "productos": [
+      "CDT",
+      "Cuenta Ahorros",
+      "Credito"
+    ],
+    "activo": 1
+  },
+  {
+    "id_cliente": "1028",
+    "nombre": "Juan  Perez",
+    "tipo_documento": "NIT",
+    "numero_documento": "631851520",
+    "segmento": "premium",
+    "ciudad": "Pereira",
+    "fecha_alta": "27/03/2019",
+    "contacto": {
+      "email": "juan.perez@outlook.com",
+      "telefono": "3106763370"
+    },
+    "productos": [
+      "Credito"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1029,
+    "nombre": "Camila Ortiz",
+    "tipo_documento": "NIT",
+    "numero_documento": "992161337",
+    "segmento": "Premium",
+    "ciudad": "Cali",
+    "fecha_alta": "22-3-2021",
+    "contacto": {
+      "email": "camila.ortiz@gmail.com",
+      "telefono": "3197030144"
+    },
+    "productos": [
+      "Credito"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1030,
+    "nombre": "Sofia Ramirez ",
+    "tipo_documento": "NIT",
+    "numero_documento": "530802345",
+    "segmento": "Premium",
+    "ciudad": "Bogota",
+    "fecha_alta": "11/12/2022",
+    "contacto": {
+      "email": "sofia.ramirez@outlook.com",
+      "telefono": "3238952955"
+    },
+    "productos": [
+      "Credito"
+    ],
+    "activo": "NO"
+  },
+  {
+    "id_cliente": 1031,
+    "nombre": "Laura   Gonzalez",
+    "tipo_documento": "CC",
+    "numero_documento": "678341010",
+    "segmento": "Personal",
+    "ciudad": "cali",
+    "fecha_alta": "16/06/2019",
+    "contacto": {
+      "telefono": "+57 313 950 7237"
+    },
+    "productos": [
+      "CDT"
+    ],
+    "activo": 0
+  },
+  {
+    "id_cliente": 1032,
+    "nombre": "Sofia Ramirez ",
+    "tipo_documento": "CC",
+    "numero_documento": "134869286",
+    "segmento": "personal",
+    "ciudad": "  Bogotá ",
+    "fecha_alta": "01-jun-2023",
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1033,
+    "nombre": "Ana Maria Rojas",
+    "tipo_documento": "CC",
+    "numero_documento": "726.938.389",
+    "segmento": "Premium",
+    "ciudad": "Bucaramanga",
+    "fecha_alta": "06-ago-2021",
+    "contacto": {
+      "telefono": "3107225042"
+    },
+    "productos": [
+      "Cuenta Corriente",
+      "Credito",
+      "Cuenta Ahorros"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1034,
+    "nombre": "María José Álvarez",
+    "tipo_documento": "C.C.",
+    "numero_documento": "446.377.174",
+    "ciudad": "Barranquilla",
+    "fecha_alta": "10-may-2023",
+    "contacto": {
+      "email": "maria.jose.alvarez@gmail.com",
+      "telefono": "+57 318 531 9380"
+    },
+    "productos": [
+      "Cuenta Corriente"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1035,
+    "nombre": "Juan  Perez",
+    "tipo_documento": "cc",
+    "numero_documento": "103903237",
+    "segmento": "Premium",
+    "ciudad": "medellín",
+    "fecha_alta": "28-12-2021",
+    "contacto": {
+      "email": "juan.perez@gmail.com",
+      "telefono": ""
+    },
+    "productos": [
+      "Credito"
+    ],
+    "activo": "Si"
+  },
+  {
+    "id_cliente": 1036,
+    "nombre": "Felipe  Cardenas",
+    "tipo_documento": "nit",
+    "numero_documento": "382543348",
+    "segmento": "premium",
+    "ciudad": "cali",
+    "fecha_alta": "12-12-2022",
+    "contacto": {
+      "email": "felipe.cardenas@hotmail.com",
+      "telefono": "(606) 290 6603"
+    },
+    "productos": [
+      "CDT",
+      "Credito",
+      "Cuenta Ahorros"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": "1037",
+    "nombre": "Gabriela Nino",
+    "tipo_documento": "cc",
+    "numero_documento": "907.258.312",
+    "segmento": "personal",
+    "ciudad": " Cúcuta",
+    "fecha_alta": "2019-02-12",
+    "contacto": {
+      "telefono": "+57 324 789 8621"
+    },
+    "activo": "Si"
+  },
+  {
+    "id_cliente": 1038,
+    "nombre": "diego torres",
+    "tipo_documento": "nit",
+    "numero_documento": "1054729284",
+    "segmento": "Premium",
+    "ciudad": "cali",
+    "fecha_alta": "24-8-2019",
+    "contacto": {
+      "email": "diego.torres@empresa.com.co",
+      "telefono": "+57 318 369 7021"
+    },
+    "productos": [
+      "Credito",
+      "Cuenta Ahorros"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1039,
+    "nombre": "  carlos gomez ",
+    "segmento": "personal",
+    "ciudad": "  Bogotá ",
+    "fecha_alta": "01/02/2021",
+    "productos": [
+      "Cuenta Corriente"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": "1040",
+    "nombre": "Camila Ortiz",
+    "ciudad": "cali",
+    "fecha_alta": "03/05/2020",
+    "contacto": {
+      "telefono": "+57 311 823 3229"
+    },
+    "productos": [
+      "Credito",
+      "Cuenta Corriente",
+      "CDT"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": "1041",
+    "nombre": "Textiles del Caribe S.A.",
+    "tipo_documento": "NIT",
+    "numero_documento": "880.804.498-2",
+    "segmento": "EMPRESARIAL",
+    "ciudad": "  Bogotá ",
+    "fecha_alta": "18-4-2021",
+    "contacto": {
+      "email": "textiles.del.caribe.s.a.@outlook.com",
+      "telefono": "+57 329 391 2594"
+    },
+    "productos": [
+      "Cuenta Corriente",
+      "CDT"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": "1042",
+    "nombre": "TecnoSoluciones SAS",
+    "tipo_documento": "NIT",
+    "numero_documento": "839.022.478-5",
+    "segmento": "Pyme",
+    "ciudad": "Bucaramanga",
+    "fecha_alta": "13-mar-2019",
+    "contacto": {
+      "email": "tecnosoluciones.sas@outlook.com",
+      "telefono": "(602) 713 6034"
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "Credito"
+    ],
+    "activo": 0
+  },
+  {
+    "id_cliente": 1043,
+    "nombre": "Logistica Express SA",
+    "tipo_documento": "nit",
+    "numero_documento": "864.182.544-0",
+    "segmento": "Empresarial",
+    "ciudad": "Medellin",
+    "fecha_alta": "28/12/2019",
+    "contacto": {
+      "email": "logistica.express.sa@empresa.com.co",
+      "telefono": "+57 312 842 4100"
+    },
+    "productos": [
+      "Cuenta Ahorros",
+      "Credito",
+      "Cuenta Corriente"
+    ],
+    "activo": 1
+  },
+  {
+    "id_cliente": 1044,
+    "nombre": "Alimentos La Cosecha",
+    "tipo_documento": "NIT",
+    "numero_documento": "806.768.972-4",
+    "segmento": "Empresarial",
+    "ciudad": "Cali",
+    "fecha_alta": "26-11-2019",
+    "productos": [
+      "Cuenta Corriente",
+      "CDT",
+      "Credito"
+    ],
+    "activo": "Si"
+  },
+  {
+    "id_cliente": 1045,
+    "nombre": "TecnoSoluciones SAS",
+    "tipo_documento": "nit",
+    "numero_documento": "895.649.166-7",
+    "segmento": "Empresarial",
+    "ciudad": "cali",
+    "fecha_alta": "2019-01-23",
+    "contacto": {
+      "email": "tecnosoluciones.sas@hotmail.com",
+      "telefono": ""
+    },
+    "productos": [
+      "Credito",
+      "Cuenta Ahorros"
+    ],
+    "activo": false
+  },
+  {
+    "id_cliente": 1046,
+    "nombre": "  Agroexportadora Valle ",
+    "tipo_documento": "NIT",
+    "numero_documento": "895.639.767-7",
+    "segmento": "pyme",
+    "ciudad": "Cartagena",
+    "fecha_alta": "12-ene-2020",
+    "contacto": {
+      "telefono": "3100851835"
+    },
+    "productos": [
+      "CDT",
+      "Credito",
+      "Cuenta Corriente"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1047,
+    "nombre": "Logistica Express SA",
+    "tipo_documento": "nit",
+    "numero_documento": "871.027.971-2",
+    "segmento": "EMPRESARIAL",
+    "ciudad": "b/quilla",
+    "fecha_alta": "03-jul-2022",
+    "activo": "Si"
+  },
+  {
+    "id_cliente": "1048",
+    "nombre": "TecnoSoluciones SAS",
+    "tipo_documento": "nit",
+    "numero_documento": "835.108.164-6",
+    "segmento": "EMPRESARIAL",
+    "ciudad": "Bogota",
+    "fecha_alta": "28/08/2019",
+    "contacto": {
+      "email": "tecnosoluciones.sas@gmail.com",
+      "telefono": "+57 325 520 4815"
+    },
+    "productos": [
+      "CDT",
+      "Cuenta Ahorros"
+    ],
+    "activo": "No"
+  },
+  {
+    "id_cliente": 1049,
+    "nombre": "TecnoSoluciones SAS",
+    "tipo_documento": "nit",
+    "numero_documento": "804.895.887-9",
+    "segmento": "EMPRESARIAL",
+    "ciudad": "cali",
+    "fecha_alta": "2019-06-25",
+    "productos": [
+      "CDT"
+    ],
+    "activo": "SI"
+  },
+  {
+    "id_cliente": 1050,
+    "nombre": "Inversiones El Roble SAS",
+    "tipo_documento": "nit",
+    "numero_documento": "843.374.700-0",
+    "ciudad": "BOGOTA",
+    "fecha_alta": "08/06/2023",
+    "contacto": {
+      "email": "inversiones.el.roble.sas@hotmail.com",
+      "telefono": "(608) 725 7455"
+    },
+    "activo": 0
+  },
+  {
+    "id_cliente": 1004,
+    "nombre": "Isabella Diaz",
+    "tipo_documento": "C.C.",
+    "numero_documento": "342601915",
+    "segmento": "premium",
+    "ciudad": "medellín",
+    "fecha_alta": "7-1-2022",
+    "contacto": {
+      "email": "isabella.diaz@empresa.com.co",
+      "telefono": "3138849654"
+    },
+    "productos": [
+      "Cuenta Ahorros"
+    ],
+    "activo": true
+  },
+  {
+    "id_cliente": 1011,
+    "nombre": "SANTIAGO VARGAS",
+    "tipo_documento": "NIT",
+    "numero_documento": "339147326",
+    "segmento": "premium",
+    "ciudad": "cali",
+    "fecha_alta": "2022-11-27",
+    "contacto": {
+      "telefono": "(602) 560 7689"
+    },
+    "productos": [
+      "Cuenta Corriente"
+    ],
+    "activo": false
+  }
+]

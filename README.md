@@ -102,3 +102,33 @@ Para asegurar que se interpreten correctamente las ausencias de información y e
 *   **Hallazgo:** Al realizar una validación cruzada cronológica (esperando que `fecha` de transacción $\ge$ `fecha_alta` de cliente), se identificó un único caso anómalo en una `Cuenta Corriente`: el cliente tiene fecha de alta el `2023-10-22`, pero registra una transacción el `2023-03-16`.
 *   **Tratamiento:** Se decidió mantener el registro intacto. Esto puede suponer un error de digitación manual del mes en la fuente o en una migración de sistemas. Al ser un caso completamente aislado, no genera sesgo en las métricas globales y en caso de corregirse, se podría terminar ingresando infomración falsa o generando pérdida de infomración si se decide tener una fecha de las dos como nula.
 
+---
+## 🤖 Preguntas de Cierre y Uso de IA
+
+### 1. ¿En qué partes usaste IA y para qué? (Y, si aplica, en cuáles preferiste no usarla)
+En general, hice equipo con la IA (en mi caso Gemini) durante toda la prueba, utilizando ramificaciones de chats para no sesgar las conversaciones ni ensuciar el contexto. 
+
+La utilicé principalmente para:
+*   **Aprender PySpark:** Aunque no dominaba esta herramienta, mis conocimientos sólidos en Python, Pandas y SQL me permitieron usar la IA como un tutor en tiempo real para acelerar la curva de aprendizaje.
+*   **Automatizar tareas repetitivas:** Escribir código redundante donde solo cambian pequeñas variables.
+*   **Sustentar la curiosidad y redactar:** Validar conceptos de negocio y estructurar la documentación de forma clara y profesional.
+
+Decidí no usarla para resolver casos muy generales, yo preferia guiarla comando por comando, en vez de decirle ayudame a limpiar la columna, le pedía cosas como dame código para visualizar regisros que cumplan tal condición
+
+---
+
+### 2. ¿Por qué decidiste usarla ahí? ¿Qué te aportó?
+En el desarrollo de código, la IA aporta muchísimo a optimizar tiempos de escritura y evitar la digitación de bloques repetitivos. Además de darme ideas para resolver problemas puntuales, lo que más me aportó fue retar mi pensamiento crítico: es un ejercicio constante de saber guiarla, darle instrucciones precisas y no dejarse llevar ciegamente por sus respuestas.
+
+Me sirvió enormemente para trasladar mi lógica de Pandas y SQL a PySpark de manera eficiente, analizando a fondo la estructura de los comandos para optimizar el rendimiento. También es una herramienta brutal para identificar bugs; sin duda, se ha convertido en el StackOverflow de nuestra época.
+
+También me sirvió muchisimo para configurar las herramientas, ya que noté que pyspark demandaba su entorno y no era tan fácil  de ejecutar como pandas
+
+---
+
+### 3. Dame un ejemplo de algo que la IA te dio y tuviste que corregir o verificar. ¿Cómo te diste cuenta de que había que ajustarlo?
+Tuve tres casos muy claros donde el criterio propio fue indispensable para corregir las propuestas de la IA:
+
+*   **Sintaxis y pequeños bugs:** En una ocasión me entregó un código donde faltaba un paréntesis y se rompía la ejecución. Fue posible de identificar y solucionar gracias a las señales de VSCode, pero habia que prestar mucha atención.
+*   **Pérdida de contexto en estandarizaciones:** La IA tendía a olvidar que ya habíamos estandarizado previamente ciertas variables. Por ejemplo, intentaba aplicar expresiones regulares (regex) complejas para buscar la palabra "crédito" o seguía considerando "Crédito Hipotecario" de forma manual, cuando ya teniamos una columna de `tipo_producto` previamente unificada y limpia.
+*   **Seguimiento de DataFrames intermedios (Programación en Cascada):** Como buena práctica, me gusta trabajar creando DataFrames intermedios de limpieza para no mutar los datos originales (ej. pasar de `df_clientes` a `df_clientes_clean`, o renombrar columnas a `monto_clean`). La IA se confundía frecuentemente con los nombres de estas variables temporales y me sugería operaciones sobre DataFrames desactualizados. Al principio me daba cuenta porque los resultados no cuadraban, pero luego aprendí a anticipar este comportamiento. De no haberlo corregido, se habrían arrastrado datos sucios a los análisis finales.

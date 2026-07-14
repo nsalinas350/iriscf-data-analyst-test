@@ -1,0 +1,424 @@
+id_cliente,id_transaccion,fecha,tipo_producto,monto,moneda,tasa_interes,plazo_dias,canal,estado,sucursal,nombre,tipo_documento,numero_documento,ciudad,segmento,fecha_alta,activo,contacto_email,contacto_telefono,productos_str
+1002,500082,2024-08-28,Cuenta Ahorros,14308904.25,COP,,,App,Pendiente,Bucaramanga,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1015,500073,2024-11-09,CDT,14233.99,USD,13.140000,365,Web,Aprobada,Cali,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1013,500331,2024-07-05,Credito,67675881.00,COP,8.600000,180,App,Pendiente,Bogota,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1045,500239,2024-07-03,Credito,22513.97,USD,9.270000,90,Oficina,Rechazada,Bogota,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1023,500277,2024-04-14,Cuenta Ahorros,12351845.90,COP,,,Cajero,Aprobada,Cali,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1019,500008,2024-10-25,Credito,24703.21,USD,8.900000,180,Oficina,Aprobada,Medellin,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1017,500172,2024-09-06,Credito,40057209.90,COP,12.020000,365,Cajero,Pendiente,Cartagena,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1011,500190,2024-07-17,Credito,32536584.00,COP,10.970000,180,Oficina,Pendiente,Barranquilla,Santiago Vargas,NIT,339147326,Cali,Premium,2022-11-27,false,,6025607689,Cuenta Corriente
+1009,500097,2024-01-10,CDT,57507492.00,COP,10.000000,180,App,Pendiente,Bogota,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+1015,500368,2024-07-28,Credito,86379257.00,COP,9.500000,90,Oficina,Pendiente,Bogota,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1015,500392,2024-11-14,Credito,18577287.00,COP,8.200000,365,Cajero,Rechazada,Bogota,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1018,500358,2024-03-27,CDT,14817229.00,COP,10.100000,180,Cajero,Pendiente,Barranquilla,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1003,500102,2024-06-18,CDT,58964224.00,COP,11.800000,90,App,Pendiente,Barranquilla,Ana Maria Rojas,CC,533496827,Barranquilla,Personal,2020-07-01,true,ana.maria.rojas@empresa.com.co,3290597940,Cuenta Ahorros | Cuenta Corriente
+1011,500212,2024-03-18,CDT,2284877.50,COP,9.400000,365,Web,Aprobada,Barranquilla,Santiago Vargas,NIT,339147326,Cali,Premium,2022-11-27,false,,6025607689,Cuenta Corriente
+1012,500157,2024-05-24,CDT,74769684.00,COP,11.630000,365,Cajero,Pendiente,Bucaramanga,Sofia Ramirez,NIT,835079380,Cucuta,Premium,2022-09-05,true,sofia.ramirez@empresa.com.co,3244932334,Cuenta Corriente | CDT
+1050,500182,2024-08-21,Cuenta Ahorros,6709024.00,COP,,,Cajero,Pendiente,Medellin,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+7777,500398,2024-05-05,CDT,6302.81,USD,9.900000,365,Cajero,Pendiente,Bogota,No identificado,,,,,,,,,""
+1024,500113,2024-02-04,Credito,113232210.50,COP,8.900000,90,Cajero,Pendiente,Medellin,Isabella Diaz,,,Medellin,Personal,2021-12-23,false,isabella.diaz@outlook.com,3275015557,Cuenta Ahorros | Cuenta Corriente | CDT
+1016,500405,2024-07-03,Credito,44853668.00,COP,13.900000,360,Oficina,Aprobada,Bogota,Nicolas Romero,CC,907703101,Bogota,Premium,2021-07-22,false,,,Credito | Cuenta Ahorros | CDT
+1008,500235,2024-03-23,Credito,24316548.00,COP,13.300000,90,Cajero,Aprobada,Cali,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1045,500326,2024-08-14,Credito,16191823.00,COP,10.600000,365,App,Pendiente,Barranquilla,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1050,500396,2024-08-22,CDT,76033808.00,COP,8.300000,365,Cajero,Pendiente,Cartagena,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1003,500233,2024-06-19,CDT,9307015.90,COP,10.700000,360,Cajero,Aprobada,Bucaramanga,Ana Maria Rojas,CC,533496827,Barranquilla,Personal,2020-07-01,true,ana.maria.rojas@empresa.com.co,3290597940,Cuenta Ahorros | Cuenta Corriente
+1043,500115,2024-05-28,CDT,75892796.00,COP,9.800000,90,Oficina,Pendiente,Bogota,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1009,500107,2025-10-05,CDT,57230282.00,COP,10.000000,180,Web,Pendiente,Bogota,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+1019,500321,2024-08-20,CDT,20235.16,USD,8.400000,90,Web,Pendiente,Bogota,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1031,500357,2024-10-25,Credito,23191663.50,COP,12.600000,365,Web,Pendiente,Barranquilla,Laura Gonzalez,CC,678341010,Cali,Personal,2019-06-16,false,,3139507237,CDT
+1034,500419,2024-01-23,CDT,21091805.00,COP,8.500000,365,Cajero,Aprobada,Barranquilla,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1044,500210,2024-08-02,CDT,66630171.90,COP,13.300000,365,Cajero,Pendiente,Medellin,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1045,500030,2024-12-23,CDT,62221217.00,COP,13.600000,90,Cajero,Pendiente,Bogota,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1013,500310,2025-09-17,CDT,48504595.00,COP,8.620000,180,Cajero,Rechazada,Bogota,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1025,500324,2024-10-04,CDT,78281592.00,COP,11.300000,180,App,Pendiente,Bogota,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1009,500236,2024-12-09,Credito,18107976.00,NULL,11.500000,365,App,Aprobada,Barranquilla,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+1034,500147,2024-10-12,Credito,83639134.90,COP,8.400000,180,App,Aprobada,Cali,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1010,500225,2024-04-11,Credito,41579389.00,COP,10.600000,180,Oficina,Pendiente,Medellin,Gabriela Nino,CC,370668724,Medellin,Personal,2023-12-02,true,,3289895588,Cuenta Ahorros | Cuenta Corriente | CDT
+1039,500390,2024-10-07,Credito,95359746.00,COP,11.500000,365,Web,Aprobada,Bogota,Carlos Gomez,,,Bogota,Personal,2021-02-01,false,,,Cuenta Corriente
+1046,500127,2024-11-27,Cuenta Ahorros,7993963.00,COP,,,Oficina,Pendiente,Barranquilla,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1050,500370,2024-11-18,CDT,6149329.50,COP,9.500000,365,Oficina,Aprobada,Medellin,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1012,500091,2023-02-05,Cuenta Ahorros,21231.60,USD,,,App,Pendiente,Barranquilla,Sofia Ramirez,NIT,835079380,Cucuta,Premium,2022-09-05,true,sofia.ramirez@empresa.com.co,3244932334,Cuenta Corriente | CDT
+1044,500085,2024-11-03,Credito,106544669.00,COP,11.200000,90,Cajero,Pendiente,Medellin,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1031,500043,2024-07-14,CDT,6926.23,USD,12.000000,180,App,Aprobada,Bogota,Laura Gonzalez,CC,678341010,Cali,Personal,2019-06-16,false,,3139507237,CDT
+1008,500270,2024-10-12,CDT,21914655.00,COP,10.000000,365,App,Aprobada,Medellin,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+7777,500317,2024-02-06,CDT,3834293.00,COP,10.600000,360,Oficina,Aprobada,Cartagena,No identificado,,,,,,,,,""
+1025,500053,2024-07-23,CDT,36100170.00,COP,11.960000,90,Oficina,Rechazada,Bogota,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1044,500306,2024-05-04,Credito,88284618.00,COP,13.100000,365,Web,Rechazada,Cartagena,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1044,500118,2024-11-21,Credito,67550.00,USD,8.200000,360,Cajero,Aprobada,Barranquilla,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1020,500308,2024-06-05,Credito,52004475.00,COP,13.700000,360,Oficina,Rechazada,Barranquilla,Ana Maria Rojas,NIT,876641426,Pereira,Premium,2021-12-14,false,ana.maria.rojas@empresa.com.co,3107217439,CDT
+1032,500047,2024-07-14,Credito,76135224.00,COP,8.100000,180,App,Aprobada,Barranquilla,Sofia Ramirez,CC,134869286,Bogota,Personal,2023-06-01,true,,,""
+1009,500108,2024-12-28,CDT,63694483.00,COP,11.100000,180,Cajero,Aprobada,Cali,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+9999,500288,2024-02-11,CDT,23691963.00,COP,10.090000,90,Oficina,Pendiente,Barranquilla,No identificado,,,,,,,,,""
+1022,500330,2024-09-08,Credito,27691384.00,COP,11.600000,360,Web,Rechazada,Bucaramanga,Lucia Fernandez,CC,446669194,Medellin,,2022-08-18,true,lucia.fernandez@outlook.com,"",Credito | Cuenta Corriente
+1020,500403,2024-06-11,CDT,48252396.00,COP,12.800000,360,Oficina,Rechazada,Medellin,Ana Maria Rojas,NIT,876641426,Pereira,Premium,2021-12-14,false,ana.maria.rojas@empresa.com.co,3107217439,CDT
+1050,500016,2024-02-04,CDT,42557864.50,COP,9.400000,90,Cajero,Pendiente,Medellin,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1034,500134,2024-12-08,CDT,3934004.00,NULL,10.600000,365,App,Aprobada,Bogota,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1005,500142,2024-06-15,CDT,31446430.00,COP,8.300000,360,Cajero,Pendiente,Barranquilla,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1027,500375,2024-07-28,Cuenta Ahorros,2839929.00,COP,,,Oficina,Rechazada,Bogota,Isabella Diaz,CC,1044350751,Barranquilla,Personal,2019-12-24,true,isabella.diaz@empresa.com.co,3136487687,CDT | Cuenta Ahorros | Credito
+1050,500139,2024-06-01,CDT,13053654.00,COP,13.810000,360,Web,Aprobada,Cartagena,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1014,500246,2024-11-12,CDT,39794490.00,COP,11.060000,90,Web,Aprobada,Medellin,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1035,500408,2024-07-14,Credito,82562060.00,COP,12.300000,360,App,Pendiente,Bogota,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1014,500017,2024-06-03,Credito,6456.51,USD,13.400000,180,Cajero,Pendiente,Barranquilla,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1028,500088,2024-07-11,CDT,75401823.00,COP,13.400000,365,Cajero,Pendiente,Medellin,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1019,500229,2024-01-01,CDT,2414336.00,COP,13.000000,360,App,Aprobada,Bogota,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1049,500337,2024-04-28,CDT,58802311.00,COP,8.500000,360,Cajero,Pendiente,Cali,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1048,500338,2024-05-12,CDT,44490033.00,COP,8.800000,180,App,Aprobada,Cartagena,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1012,500165,2024-09-18,Cuenta Ahorros,7496907.00,COP,,,Web,Aprobada,Bogota,Sofia Ramirez,NIT,835079380,Cucuta,Premium,2022-09-05,true,sofia.ramirez@empresa.com.co,3244932334,Cuenta Corriente | CDT
+1040,500187,2024-05-14,Credito,54205787.00,COP,9.810000,180,App,Pendiente,Cali,Camila Ortiz,,,Cali,,2020-05-03,true,,3118233229,Credito | Cuenta Corriente | CDT
+1048,500132,2024-11-08,CDT,78274138.00,COP,9.570000,180,Cajero,Pendiente,Barranquilla,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1007,500056,2024-05-07,CDT,5357374.25,COP,11.400000,180,Web,Pendiente,Bogota,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1024,500068,2024-11-14,CDT,51132338.00,COP,10.300000,180,Cajero,Rechazada,Cali,Isabella Diaz,,,Medellin,Personal,2021-12-23,false,isabella.diaz@outlook.com,3275015557,Cuenta Ahorros | Cuenta Corriente | CDT
+1026,500345,2024-04-15,CDT,44092232.00,COP,13.100000,90,Web,Aprobada,Medellin,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1020,500168,2024-10-18,CDT,64596891.00,NULL,11.500000,90,App,Pendiente,Barranquilla,Ana Maria Rojas,NIT,876641426,Pereira,Premium,2021-12-14,false,ana.maria.rojas@empresa.com.co,3107217439,CDT
+1019,500371,2024-03-11,Credito,45690358.00,NULL,8.900000,365,Cajero,Aprobada,Cali,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1045,500251,2024-10-16,CDT,61542966.00,COP,8.900000,90,Oficina,Aprobada,Bucaramanga,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1009,500234,2024-12-07,CDT,7118262.00,COP,10.700000,360,Cajero,Pendiente,Barranquilla,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+8888,500247,2024-11-15,CDT,44646856.00,COP,13.900000,365,Web,Pendiente,Cali,No identificado,,,,,,,,,""
+1003,500126,2025-12-21,CDT,46304145.00,COP,9.100000,360,App,Pendiente,Barranquilla,Ana Maria Rojas,CC,533496827,Barranquilla,Personal,2020-07-01,true,ana.maria.rojas@empresa.com.co,3290597940,Cuenta Ahorros | Cuenta Corriente
+1042,500098,2024-02-09,Cuenta Ahorros,8017598.00,COP,,,Cajero,Aprobada,Bogota,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1007,500059,2024-06-06,Credito,12260527.00,COP,10.300000,180,App,Pendiente,Cali,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1036,500350,2024-12-03,Cuenta Corriente,8278349.00,COP,,,App,Pendiente,Bogota,Felipe Cardenas,NIT,382543348,Cali,Premium,2022-12-12,true,felipe.cardenas@hotmail.com,6062906603,CDT | Credito | Cuenta Ahorros
+7777,500191,2024-11-27,Credito,25452045.00,COP,9.600000,180,App,Rechazada,Cartagena,No identificado,,,,,,,,,""
+1035,500268,2024-09-20,Credito,98426847.00,COP,10.600000,360,Web,Aprobada,Medellin,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1019,500124,2024-07-24,CDT,34275581.00,COP,11.800000,90,Oficina,Pendiente,Barranquilla,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1034,500377,2024-09-23,CDT,47128152.00,COP,9.270000,180,Cajero,Pendiente,Bogota,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1006,500080,2024-02-02,Credito,13641.46,USD,11.500000,90,Oficina,Pendiente,Bogota,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+7777,500304,2024-07-13,CDT,62870813.00,NULL,12.000000,365,App,Pendiente,Medellin,No identificado,,,,,,,,,""
+1007,500214,2024-02-13,CDT,15410701.00,COP,11.900000,365,App,Pendiente,Bogota,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1022,500036,2023-09-17,CDT,35281348.00,COP,9.800000,180,Web,Pendiente,Bogota,Lucia Fernandez,CC,446669194,Medellin,,2022-08-18,true,lucia.fernandez@outlook.com,"",Credito | Cuenta Corriente
+1045,500287,2024-04-08,CDT,28899191.00,COP,11.800000,360,Cajero,Pendiente,Cartagena,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1049,500066,2024-08-06,CDT,48057065.00,COP,12.680000,365,Web,Pendiente,Cali,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1026,500060,2024-10-25,Cuenta Ahorros,7784912.25,NULL,,,Oficina,Pendiente,Bucaramanga,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1045,500020,2024-02-16,Cuenta Ahorros,3877402.00,COP,,,Cajero,Aprobada,Cali,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1041,500292,2024-05-16,CDT,31198397.50,COP,13.800000,365,Oficina,Aprobada,Bogota,Textiles Del Caribe S.a.,NIT,880804498-2,Bogota,Empresarial,2021-04-18,true,textiles.del.caribe.s.a.@outlook.com,3293912594,Cuenta Corriente | CDT
+1018,500298,2023-03-20,CDT,60339601.00,COP,13.400000,90,Web,Aprobada,Bucaramanga,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1018,500114,2024-12-08,Credito,26641248.00,COP,13.900000,180,Cajero,Aprobada,Bogota,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1030,500050,2024-12-26,CDT,72919520.00,COP,13.800000,180,Web,Aprobada,Bogota,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1025,500242,2024-12-26,Credito,77374240.00,COP,13.700000,90,Oficina,Aprobada,Cartagena,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1006,500303,2024-09-22,CDT,31075165.00,COP,12.350000,365,Oficina,Pendiente,Cartagena,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1030,500244,2024-11-19,CDT,40219102.00,COP,8.100000,180,Cajero,Pendiente,Cartagena,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1007,500117,2024-10-23,Cuenta Ahorros,12659882.00,COP,,,Cajero,Pendiente,Bogota,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1004,500219,2024-03-04,Credito,70182528.00,COP,13.300000,180,Web,Pendiente,Medellin,Isabella Diaz,CC,342601915,Medellin,Premium,2022-01-07,true,isabella.diaz@empresa.com.co,3138849654,Cuenta Ahorros
+1034,500402,2024-05-18,Credito,104085461.90,COP,8.200000,180,Web,Pendiente,Barranquilla,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1036,500070,2024-07-16,Cuenta Corriente,2371504.00,COP,,,Cajero,Pendiente,Cali,Felipe Cardenas,NIT,382543348,Cali,Premium,2022-12-12,true,felipe.cardenas@hotmail.com,6062906603,CDT | Credito | Cuenta Ahorros
+1017,500279,2024-07-05,Credito,63582790.00,COP,8.000000,180,Oficina,Rechazada,Medellin,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1019,500369,2024-06-26,CDT,7136176.00,COP,9.100000,360,Web,Pendiente,Barranquilla,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1033,500203,2024-12-19,Credito,47607656.50,COP,10.530000,90,App,Pendiente,Cali,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1049,500164,2025-09-01,CDT,47889353.00,COP,9.300000,90,Cajero,Rechazada,Bogota,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1030,500135,2024-12-05,CDT,63275519.25,COP,12.800000,365,App,Aprobada,Bogota,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1035,500342,2024-07-20,Credito,116327027.25,COP,13.700000,360,App,Pendiente,Barranquilla,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1023,500275,2024-07-11,Credito,82431515.50,COP,13.900000,365,Cajero,Aprobada,Medellin,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1043,500332,2024-12-27,CDT,43470273.90,COP,9.910000,360,Cajero,Rechazada,Cali,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1009,500283,2024-04-10,CDT,67707308.00,COP,13.100000,365,Web,Aprobada,Medellin,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+1015,500170,2024-12-01,CDT,41797166.00,COP,10.800000,365,App,Pendiente,Barranquilla,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1048,500422,2024-05-12,CDT,44490033.00,COP,8.800000,180,App,Aprobada,Cartagena,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1016,500349,2025-08-21,Credito,8070241.00,COP,10.300000,365,Web,Aprobada,Cali,Nicolas Romero,CC,907703101,Bogota,Premium,2021-07-22,false,,,Credito | Cuenta Ahorros | CDT
+7777,500237,2024-08-04,CDT,41106424.00,COP,9.760000,360,Cajero,Aprobada,Medellin,No identificado,,,,,,,,,""
+1014,500001,2024-08-27,Credito,109345238.00,COP,13.400000,360,App,Pendiente,Cali,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1006,500401,2024-04-10,CDT,8864973.50,COP,13.400000,180,Cajero,Aprobada,Barranquilla,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1001,500393,2024-09-25,Credito,4841651.00,COP,10.000000,90,App,Pendiente,Bogota,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1004,500351,2024-02-07,CDT,35101509.90,COP,8.800000,180,App,Pendiente,Cali,Isabella Diaz,CC,342601915,Medellin,Premium,2022-01-07,true,isabella.diaz@empresa.com.co,3138849654,Cuenta Ahorros
+1031,500339,2024-07-11,CDT,62101291.00,COP,8.140000,365,Cajero,Aprobada,Barranquilla,Laura Gonzalez,CC,678341010,Cali,Personal,2019-06-16,false,,3139507237,CDT
+1004,500227,2024-07-22,Credito,44810615.50,COP,10.060000,90,Cajero,Pendiente,Barranquilla,Isabella Diaz,CC,342601915,Medellin,Premium,2022-01-07,true,isabella.diaz@empresa.com.co,3138849654,Cuenta Ahorros
+1034,500399,2024-05-01,CDT,60924321.00,COP,10.300000,180,Cajero,Pendiente,Bucaramanga,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1007,500055,2024-01-07,Credito,79114993.00,COP,9.000000,180,Oficina,Pendiente,Bogota,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1035,500181,2024-06-14,CDT,76163487.00,COP,9.240000,360,Oficina,Rechazada,Medellin,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1050,500209,2024-10-21,Cuenta Ahorros,6268602.00,COP,,,Web,Aprobada,Medellin,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1038,500100,2024-11-14,Credito,114873429.90,COP,,180,Cajero,Rechazada,Barranquilla,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1043,500024,2024-12-22,Cuenta Ahorros,1091943.00,NULL,,,Oficina,Aprobada,,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1005,500049,2024-01-08,Cuenta Ahorros,8855108.00,COP,,,Web,Pendiente,Cali,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1035,500267,2024-07-21,CDT,8102.34,USD,9.300000,,App,Pendiente,,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1005,500133,2024-06-02,CDT,41062892.00,COP,,90,Web,Pendiente,Bucaramanga,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1008,500106,2024-09-22,Cuenta Corriente,482578.00,COP,,,App,Aprobada,Medellin,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1048,500110,2024-10-02,Credito,85566362.00,COP,11.000000,,Web,Aprobada,Cartagena,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1037,500063,2024-10-15,CDT,67331919.00,COP,13.100000,,Web,Rechazada,Cartagena,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+1044,500169,2024-11-25,Cuenta Ahorros,6711031.00,COP,,,Oficina,Rechazada,Bogota,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1023,500415,2024-07-22,Credito,8154087.00,COP,12.600000,,Cajero,Aprobada,Medellin,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1042,500109,2024-02-27,CDT,,COP,8.900000,360,App,Pendiente,Barranquilla,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1033,500148,2024-03-01,Cuenta Ahorros,,COP,,,App,Pendiente,Bogota,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1033,500201,2024-04-21,CDT,2345464.00,COP,12.700000,,Web,Pendiente,Medellin,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1037,500385,2024-10-23,Cuenta Ahorros,9713659.00,COP,,,Cajero,Pendiente,Bogota,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+1027,500373,2024-01-26,Cuenta Corriente,7802238.00,COP,,,Web,Rechazada,Barranquilla,Isabella Diaz,CC,1044350751,Barranquilla,Personal,2019-12-24,true,isabella.diaz@empresa.com.co,3136487687,CDT | Cuenta Ahorros | Credito
+1009,500245,2024-10-06,Cuenta Ahorros,10608345.00,COP,,,Web,Pendiente,Medellin,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+1030,500151,2024-04-03,Cuenta Ahorros,12184926.00,COP,,,Oficina,Aprobada,Barranquilla,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1009,500005,2024-09-04,Cuenta Ahorros,8349971.00,COP,,,App,Rechazada,Barranquilla,Gabriela Nino,,,Barranquilla,Personal,2021-08-18,false,gabriela.nino@outlook.com,"",Cuenta Ahorros | CDT | Cuenta Corriente
+1031,500175,2024-03-13,Credito,115304301.00,COP,9.800000,,Cajero,Rechazada,Medellin,Laura Gonzalez,CC,678341010,Cali,Personal,2019-06-16,false,,3139507237,CDT
+1015,500241,2023-10-02,Cuenta Corriente,7043062.00,COP,,,Oficina,Rechazada,Barranquilla,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1029,500185,2024-06-15,CDT,,COP,14.000000,180,Oficina,Rechazada,Barranquilla,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+8888,500048,2024-05-10,CDT,28352186.00,COP,8.200000,,Oficina,Pendiente,Cali,No identificado,,,,,,,,,""
+1024,500173,2024-09-03,Cuenta Ahorros,14650248.00,COP,,,App,Aprobada,Bogota,Isabella Diaz,,,Medellin,Personal,2021-12-23,false,isabella.diaz@outlook.com,3275015557,Cuenta Ahorros | Cuenta Corriente | CDT
+1023,500232,2024-11-20,Cuenta Ahorros,8167044.00,COP,,,App,Pendiente,Cali,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1049,500257,2024-08-18,Cuenta Corriente,,COP,,,Web,Aprobada,Barranquilla,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1013,500023,2024-01-24,Cuenta Corriente,2610610.00,COP,,,Oficina,Pendiente,Bogota,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1032,500313,2024-11-02,Cuenta Ahorros,8740.89,USD,,,Oficina,Rechazada,Bogota,Sofia Ramirez,CC,134869286,Bogota,Personal,2023-06-01,true,,,""
+1033,500347,2024-12-18,Cuenta Ahorros,5934639.00,COP,,,Web,Pendiente,,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1038,500101,2024-12-15,Cuenta Ahorros,6073220.00,COP,,,Web,Pendiente,,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1042,500052,2024-03-03,CDT,15515157.00,COP,10.040000,,Oficina,Rechazada,,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1006,500206,2024-11-01,Cuenta Ahorros,1102.08,USD,,,Oficina,Pendiente,Cali,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1008,500042,2024-10-14,CDT,40526088.00,COP,9.640000,,App,Pendiente,Cali,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1048,500180,2025-10-15,Cuenta Corriente,5130138.00,COP,,,Web,Aprobada,Barranquilla,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1002,500274,2024-07-05,Cuenta Ahorros,11727408.00,COP,,,Web,Rechazada,Bucaramanga,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1015,500334,2024-07-03,CDT,,COP,10.380000,365,Oficina,Aprobada,,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1012,500252,2024-02-16,Cuenta Ahorros,14103454.00,COP,,,Web,Rechazada,,Sofia Ramirez,NIT,835079380,Cucuta,Premium,2022-09-05,true,sofia.ramirez@empresa.com.co,3244932334,Cuenta Corriente | CDT
+1013,500386,2024-04-04,Cuenta Ahorros,19220.76,USD,,,Cajero,Aprobada,Medellin,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1008,500231,2024-09-23,CDT,29206934.00,COP,,365,Cajero,Pendiente,Bogota,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1028,500021,2023-05-13,Cuenta Ahorros,8421578.00,COP,,,Web,Pendiente,Bogota,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1012,500158,2024-12-28,Cuenta Ahorros,11675042.00,COP,,,App,Aprobada,Bogota,Sofia Ramirez,NIT,835079380,Cucuta,Premium,2022-09-05,true,sofia.ramirez@empresa.com.co,3244932334,Cuenta Corriente | CDT
+1007,500318,2025-07-05,CDT,38977903.00,COP,10.500000,,Oficina,Rechazada,Cali,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1013,500200,2024-07-04,CDT,24610.95,USD,,,Oficina,Pendiente,Cali,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1025,500301,2024-04-15,CDT,16193.57,USD,12.300000,,App,Aprobada,Bogota,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1035,500230,2024-03-16,CDT,64395081.00,COP,13.700000,,App,Rechazada,Cali,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1046,500421,2024-07-14,Cuenta Ahorros,5544806.00,COP,,,Cajero,Aprobada,Bogota,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1033,500379,2024-07-27,Cuenta Corriente,9074053.00,COP,,,App,Pendiente,Medellin,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1007,500095,2024-02-04,Cuenta Ahorros,12217511.00,COP,,,App,Pendiente,Cali,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+7777,500154,2024-04-03,CDT,8816628.25,COP,10.380000,,Cajero,Pendiente,Bogota,No identificado,,,,,,,,,""
+1027,500143,2024-09-27,Cuenta Ahorros,853817.00,COP,,,Oficina,Pendiente,Cali,Isabella Diaz,CC,1044350751,Barranquilla,Personal,2019-12-24,true,isabella.diaz@empresa.com.co,3136487687,CDT | Cuenta Ahorros | Credito
+1035,500159,2024-07-15,Cuenta Ahorros,10363721.00,COP,,,Cajero,Aprobada,Barranquilla,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1044,500192,2024-11-25,Cuenta Ahorros,966918.00,COP,,,Cajero,Rechazada,Bogota,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+8888,500316,2024-01-12,Credito,112295526.00,NULL,,365,Oficina,Pendiente,Cali,No identificado,,,,,,,,,""
+1026,500325,2024-03-08,Cuenta Corriente,4357558.00,COP,,,Cajero,Aprobada,Bogota,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1045,500413,2024-02-23,Cuenta Ahorros,3304.54,USD,,,Cajero,Pendiente,Medellin,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1037,500038,2024-11-14,Cuenta Ahorros,6784611.00,COP,,,Cajero,Rechazada,Bogota,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+1033,500380,2024-08-26,Credito,3508.83,USD,9.200000,,Oficina,Pendiente,Barranquilla,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1008,500026,2024-11-27,Cuenta Corriente,15878.80,USD,,,App,Pendiente,Cartagena,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1018,500404,2024-10-20,Cuenta Corriente,8494772.00,COP,,,App,Aprobada,Bucaramanga,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1002,500211,2024-11-02,Credito,69475728.00,COP,,,Cajero,Pendiente,Cartagena,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1016,500389,2024-02-28,Credito,94688983.00,COP,12.700000,365,Oficina,Rechazada,,Nicolas Romero,CC,907703101,Bogota,Premium,2021-07-22,false,,,Credito | Cuenta Ahorros | CDT
+1050,500273,2024-08-14,Credito,,COP,,365,Cajero,Aprobada,Barranquilla,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1046,500226,2024-12-20,Credito,57379470.00,COP,,360,Oficina,Rechazada,Barranquilla,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1042,500205,2024-07-20,Cuenta Ahorros,10818707.00,COP,,,App,Rechazada,Cartagena,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1046,500215,2024-08-19,CDT,78460696.00,COP,12.420000,180,Oficina,Pendiente,,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1032,500032,2024-03-21,Cuenta Ahorros,10589193.90,COP,,,Web,Aprobada,Medellin,Sofia Ramirez,CC,134869286,Bogota,Personal,2023-06-01,true,,,""
+1025,500018,2024-08-02,CDT,32384580.00,COP,11.900000,,App,Pendiente,,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1002,500395,2024-08-25,Cuenta Corriente,16451.98,USD,,,App,Pendiente,Cartagena,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1031,500336,2024-05-24,Cuenta Corriente,10805100.00,COP,,,Oficina,Aprobada,Bucaramanga,Laura Gonzalez,CC,678341010,Cali,Personal,2019-06-16,false,,3139507237,CDT
+1002,500044,2024-05-13,CDT,31529059.00,COP,,,Oficina,Pendiente,Bogota,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1006,500328,2024-04-10,Cuenta Ahorros,8704127.00,COP,,,App,Rechazada,Cali,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1043,500400,2024-01-25,Cuenta Corriente,6846799.00,COP,,,Cajero,Aprobada,Bogota,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1050,500166,2024-11-16,Cuenta Ahorros,12756219.00,COP,,,Oficina,Aprobada,Medellin,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1026,500265,2025-02-22,CDT,,COP,8.700000,180,Cajero,Pendiente,Bogota,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1002,500013,2024-04-11,CDT,72967304.90,COP,,,Web,Pendiente,Cartagena,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1023,500027,2024-09-14,CDT,61991584.00,COP,11.610000,,Web,Rechazada,Medellin,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1048,500136,2024-10-03,Cuenta Ahorros,13576111.00,COP,,,Oficina,Rechazada,Cali,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1021,500186,2024-06-27,Cuenta Ahorros,968633.00,COP,,,Oficina,Pendiente,Barranquilla,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1036,500289,2024-11-23,Cuenta Ahorros,4250929.00,COP,,,Oficina,Rechazada,Bogota,Felipe Cardenas,NIT,382543348,Cali,Premium,2022-12-12,true,felipe.cardenas@hotmail.com,6062906603,CDT | Credito | Cuenta Ahorros
+1002,500006,2024-02-10,CDT,20337041.00,NULL,,,App,Pendiente,Cali,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1011,500394,2024-06-17,Cuenta Ahorros,14484168.00,COP,,,Oficina,Rechazada,Bogota,Santiago Vargas,NIT,339147326,Cali,Premium,2022-11-27,false,,6025607689,Cuenta Corriente
+1046,500228,2024-01-11,Cuenta Corriente,6594579.00,COP,,,Oficina,Rechazada,Bucaramanga,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1001,500011,2023-03-16,Cuenta Corriente,3749236.00,COP,,,Oficina,Aprobada,Barranquilla,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1017,500423,2023-12-27,Cuenta Ahorros,210428.00,COP,,,Oficina,Pendiente,Barranquilla,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1046,500262,2024-09-17,Credito,87546855.00,COP,,180,Cajero,Aprobada,Cali,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1008,500116,2024-09-27,Cuenta Ahorros,12568254.00,COP,,,Cajero,Pendiente,Cartagena,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1017,500388,2024-04-21,Credito,94085540.00,COP,,365,Web,Aprobada,Cartagena,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1010,500416,2024-10-10,CDT,52045593.00,COP,,,Cajero,Pendiente,Medellin,Gabriela Nino,CC,370668724,Medellin,Personal,2023-12-02,true,,3289895588,Cuenta Ahorros | Cuenta Corriente | CDT
+1050,500407,2024-04-03,Cuenta Ahorros,9973167.00,COP,,,Oficina,Pendiente,,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1004,500293,2024-04-26,Cuenta Corriente,2105455.00,COP,,,App,Rechazada,Cali,Isabella Diaz,CC,342601915,Medellin,Premium,2022-01-07,true,isabella.diaz@empresa.com.co,3138849654,Cuenta Ahorros
+1028,500391,2024-07-28,Cuenta Ahorros,13238727.00,COP,,,App,Pendiente,Medellin,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1039,500285,2024-07-06,Cuenta Ahorros,8882344.00,COP,,,App,Pendiente,Bogota,Carlos Gomez,,,Bogota,Personal,2021-02-01,false,,,Cuenta Corriente
+1006,500025,2024-03-05,Credito,45724356.00,COP,12.800000,,Oficina,Rechazada,Barranquilla,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1025,500374,2024-06-15,Cuenta Ahorros,14987283.00,COP,,,App,Pendiente,,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1019,500104,2024-12-16,Cuenta Ahorros,9840405.00,COP,,,App,Aprobada,Cali,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1003,500019,2024-03-22,Cuenta Ahorros,2728710.25,COP,,,App,Pendiente,Barranquilla,Ana Maria Rojas,CC,533496827,Barranquilla,Personal,2020-07-01,true,ana.maria.rojas@empresa.com.co,3290597940,Cuenta Ahorros | Cuenta Corriente
+1006,500410,2024-06-10,CDT,20142230.00,NULL,9.500000,,App,Pendiente,Medellin,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1014,500327,2024-09-27,Cuenta Corriente,13387297.90,NULL,,,Oficina,Pendiente,Bogota,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+9999,500353,2025-04-01,CDT,18154068.00,COP,9.500000,,Cajero,Pendiente,Cali,No identificado,,,,,,,,,""
+1007,500010,2024-04-18,Credito,73112.00,USD,10.200000,,Cajero,Aprobada,Barranquilla,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1048,500119,2024-03-08,Cuenta Corriente,4093431.00,COP,,,Cajero,Pendiente,Bogota,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1045,500272,2024-10-23,Credito,105684996.00,COP,,90,Web,Rechazada,Medellin,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1043,500071,2024-08-19,Cuenta Ahorros,13720146.00,COP,,,Oficina,Rechazada,,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1045,500224,2024-10-13,Credito,115300157.00,COP,13.200000,,Oficina,Pendiente,,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1042,500220,2024-04-15,CDT,,COP,8.600000,365,Web,Pendiente,Medellin,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1007,500281,2024-08-11,Cuenta Corriente,,COP,,,Oficina,Aprobada,Cali,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1037,500411,2024-09-11,Cuenta Ahorros,3607478.00,NULL,,,Web,Rechazada,Bucaramanga,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+7777,500163,2024-12-21,Cuenta Ahorros,11237443.00,COP,,,Web,Aprobada,Bogota,No identificado,,,,,,,,,""
+7777,500028,2024-05-03,Cuenta Ahorros,4979606.00,COP,,,Cajero,Aprobada,Medellin,No identificado,,,,,,,,,""
+1017,500075,2024-03-23,Cuenta Corriente,20635.75,USD,,,Oficina,Aprobada,Bogota,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1049,500196,2024-09-07,Cuenta Ahorros,9280227.00,COP,,,Web,Aprobada,Bucaramanga,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1028,500179,2024-06-15,Cuenta Ahorros,5746082.00,COP,,,App,Aprobada,,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1001,500312,2024-06-12,Cuenta Ahorros,857572.00,COP,,,App,Pendiente,Cali,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1011,500012,2024-08-12,Cuenta Corriente,5922349.00,COP,,,App,Aprobada,Bogota,Santiago Vargas,NIT,339147326,Cali,Premium,2022-11-27,false,,6025607689,Cuenta Corriente
+1046,500335,2024-07-14,Cuenta Ahorros,5544806.00,COP,,,Cajero,Aprobada,Bogota,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1040,500359,2024-07-04,Credito,80055911.00,COP,10.760000,,Oficina,Rechazada,Barranquilla,Camila Ortiz,,,Cali,,2020-05-03,true,,3118233229,Credito | Cuenta Corriente | CDT
+1007,500199,2024-03-13,CDT,63909932.00,COP,10.960000,,Cajero,Pendiente,Bucaramanga,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1033,500315,2024-10-26,Cuenta Corriente,4978963.00,COP,,,Web,Pendiente,Cali,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1043,500035,2025-07-05,CDT,54126510.00,COP,8.700000,,App,Aprobada,Barranquilla,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1005,500294,2024-02-27,Cuenta Ahorros,24615.26,USD,,,App,Pendiente,Cali,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+8888,500039,2025-07-06,Cuenta Ahorros,10389.84,USD,,,Cajero,Aprobada,Bucaramanga,No identificado,,,,,,,,,""
+1014,500078,2024-12-27,CDT,62623188.00,COP,13.600000,,Oficina,Pendiente,,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1035,500128,2024-08-16,CDT,6725768.90,COP,11.000000,365,Cajero,Pendiente,,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1045,500061,2024-05-26,Cuenta Ahorros,3041963.00,COP,,,Web,Aprobada,Cartagena,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1038,500031,2024-05-28,Cuenta Ahorros,2447012.00,COP,,,Web,Aprobada,Bogota,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1047,500112,2024-11-11,Cuenta Ahorros,12735704.25,COP,,,App,Pendiente,Bucaramanga,Logistica Express Sa,NIT,871027971-2,Barranquilla,Empresarial,2022-07-03,true,,,""
+1020,500178,2024-02-27,Cuenta Ahorros,2891013.00,COP,,,Oficina,Pendiente,Bogota,Ana Maria Rojas,NIT,876641426,Pereira,Premium,2021-12-14,false,ana.maria.rojas@empresa.com.co,3107217439,CDT
+1014,500238,2024-07-21,Cuenta Ahorros,3017431.50,COP,,,Cajero,Pendiente,Bogota,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1013,500344,2024-12-03,Cuenta Corriente,14459870.90,NULL,,,Oficina,Aprobada,Bucaramanga,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1038,500348,2025-04-16,Cuenta Corriente,2330016.00,COP,,,Cajero,Pendiente,Bucaramanga,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1050,500261,2024-08-23,Cuenta Ahorros,7743272.00,COP,,,App,Aprobada,Bogota,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1028,500263,2024-11-18,CDT,35512763.00,COP,12.700000,,App,Pendiente,Bogota,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1049,500248,2024-10-24,Credito,45815428.00,COP,12.700000,,Cajero,Pendiente,Medellin,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1020,500297,2024-11-26,Cuenta Ahorros,1989322.00,COP,,,Web,Aprobada,Bucaramanga,Ana Maria Rojas,NIT,876641426,Pereira,Premium,2021-12-14,false,ana.maria.rojas@empresa.com.co,3107217439,CDT
+1034,500009,2024-07-14,Cuenta Corriente,6084361.00,COP,,,App,Aprobada,Barranquilla,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1028,500320,2024-07-15,Cuenta Ahorros,13067055.00,COP,,,Web,Aprobada,Cartagena,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1039,500054,2024-08-16,CDT,34248242.00,COP,11.490000,,App,Rechazada,Barranquilla,Carlos Gomez,,,Bogota,Personal,2021-02-01,false,,,Cuenta Corriente
+1046,500176,2024-05-15,Cuenta Ahorros,1712832.25,COP,,,Cajero,Rechazada,Cali,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1030,500125,2024-02-06,Cuenta Ahorros,9819006.00,COP,,,Cajero,Aprobada,Medellin,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1026,500103,2024-11-28,CDT,40484475.00,COP,9.100000,,App,Aprobada,Cali,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1005,500130,2024-02-01,Cuenta Corriente,13623446.50,COP,,,Cajero,Pendiente,Bogota,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1045,500381,2024-06-20,Cuenta Ahorros,10428372.00,COP,,,App,Pendiente,Medellin,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1034,500319,2024-08-26,Cuenta Ahorros,,COP,,,App,Pendiente,Medellin,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1032,500194,2024-07-10,Cuenta Ahorros,4921055.00,COP,,,App,Rechazada,Bogota,Sofia Ramirez,CC,134869286,Bogota,Personal,2023-06-01,true,,,""
+1034,500092,2024-12-27,CDT,3833.40,USD,,180,Cajero,Aprobada,Cartagena,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1016,500004,2024-07-04,Cuenta Ahorros,,NULL,,,Oficina,Pendiente,Medellin,Nicolas Romero,CC,907703101,Bogota,Premium,2021-07-22,false,,,Credito | Cuenta Ahorros | CDT
+1029,500037,2024-12-04,Cuenta Ahorros,2841745.25,COP,,,Oficina,Rechazada,Bogota,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+1037,500002,2024-06-25,Cuenta Ahorros,11604150.00,COP,,,Cajero,Aprobada,Cali,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+1028,500034,2024-10-06,CDT,7984.52,USD,9.250000,,Cajero,Aprobada,Bogota,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1012,500140,2024-12-08,Cuenta Ahorros,11427022.00,COP,,,App,Pendiente,,Sofia Ramirez,NIT,835079380,Cucuta,Premium,2022-09-05,true,sofia.ramirez@empresa.com.co,3244932334,Cuenta Corriente | CDT
+1047,500352,2024-05-24,Cuenta Corriente,4529400.00,COP,,,App,Pendiente,Barranquilla,Logistica Express Sa,NIT,871027971-2,Barranquilla,Empresarial,2022-07-03,true,,,""
+9999,500076,2024-05-27,CDT,48473995.00,COP,10.200000,,Cajero,Rechazada,,No identificado,,,,,,,,,""
+1041,500222,2024-06-17,Cuenta Corriente,2695922.00,COP,,,Oficina,Pendiente,Barranquilla,Textiles Del Caribe S.a.,NIT,880804498-2,Bogota,Empresarial,2021-04-18,true,textiles.del.caribe.s.a.@outlook.com,3293912594,Cuenta Corriente | CDT
+1018,500256,2024-10-28,Cuenta Corriente,13208260.00,COP,,,Oficina,Aprobada,Barranquilla,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1017,500094,2024-09-21,Cuenta Corriente,8019130.00,COP,,,Web,Aprobada,Bucaramanga,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1013,500202,2024-11-21,Cuenta Ahorros,13587245.00,COP,,,Web,Aprobada,Barranquilla,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1011,500305,2024-04-02,CDT,56479255.90,COP,11.300000,,Cajero,Aprobada,Cali,Santiago Vargas,NIT,339147326,Cali,Premium,2022-11-27,false,,6025607689,Cuenta Corriente
+1008,500065,2024-05-17,CDT,,NULL,,,Cajero,Aprobada,Cartagena,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1001,500007,2024-02-18,Cuenta Corriente,23973.97,USD,,,Web,Rechazada,Bogota,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1031,500258,2024-02-21,Cuenta Corriente,8027906.00,COP,,,Cajero,Rechazada,Bogota,Laura Gonzalez,CC,678341010,Cali,Personal,2019-06-16,false,,3139507237,CDT
+1040,500314,2024-11-17,Cuenta Ahorros,6551971.00,COP,,,App,Aprobada,Barranquilla,Camila Ortiz,,,Cali,,2020-05-03,true,,3118233229,Credito | Cuenta Corriente | CDT
+1015,500040,2024-01-11,Cuenta Ahorros,9288330.00,COP,,,Web,Pendiente,Bucaramanga,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1029,500217,2024-03-26,Credito,18391218.00,COP,12.200000,360,Cajero,Pendiente,,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+1002,500184,2024-04-10,Cuenta Ahorros,11195721.25,COP,,,Cajero,Pendiente,Bogota,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1014,500197,2024-03-13,Credito,46793519.00,COP,10.600000,,Web,Aprobada,Medellin,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1044,500045,2024-05-19,CDT,79062312.00,NULL,12.000000,,Cajero,Rechazada,Bucaramanga,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1049,500363,2023-10-26,Cuenta Ahorros,657692.00,COP,,,App,Pendiente,Bucaramanga,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1027,500003,2024-04-09,CDT,5961774.00,NULL,,,Oficina,Pendiente,Barranquilla,Isabella Diaz,CC,1044350751,Barranquilla,Personal,2019-12-24,true,isabella.diaz@empresa.com.co,3136487687,CDT | Cuenta Ahorros | Credito
+1036,500029,2024-09-20,Credito,101135416.00,COP,8.530000,,Web,Aprobada,,Felipe Cardenas,NIT,382543348,Cali,Premium,2022-12-12,true,felipe.cardenas@hotmail.com,6062906603,CDT | Credito | Cuenta Ahorros
+1043,500333,2024-03-19,CDT,79054529.00,COP,13.700000,365,App,Rechazada,,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1001,500296,2024-06-03,Cuenta Corriente,10429189.00,COP,,,Web,Aprobada,Medellin,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1001,500138,2024-05-01,CDT,7996143.00,COP,12.000000,,App,Pendiente,Medellin,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1043,500087,2024-09-08,Cuenta Ahorros,9592.91,USD,,,App,Rechazada,Bogota,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1023,500105,2024-12-10,Credito,59033122.00,COP,11.600000,,Web,Pendiente,Bogota,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1002,500414,2024-09-06,Credito,,COP,13.500000,,App,Rechazada,Barranquilla,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1048,500188,2024-10-10,Cuenta Corriente,11463110.00,COP,,,Oficina,Aprobada,Cali,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1032,500167,2024-06-19,CDT,,COP,,360,Oficina,Pendiente,Cali,Sofia Ramirez,CC,134869286,Bogota,Personal,2023-06-01,true,,,""
+1049,500341,2024-07-06,Cuenta Ahorros,11097696.00,COP,,,Oficina,Pendiente,Cartagena,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1027,500364,2024-07-07,Credito,59059045.00,COP,,180,Oficina,Aprobada,Cali,Isabella Diaz,CC,1044350751,Barranquilla,Personal,2019-12-24,true,isabella.diaz@empresa.com.co,3136487687,CDT | Cuenta Ahorros | Credito
+1027,500418,2024-10-12,Cuenta Corriente,1070297.00,COP,,,Oficina,Pendiente,Bogota,Isabella Diaz,CC,1044350751,Barranquilla,Personal,2019-12-24,true,isabella.diaz@empresa.com.co,3136487687,CDT | Cuenta Ahorros | Credito
+1039,500084,2024-03-27,Cuenta Corriente,,USD,,,Oficina,Pendiente,Cali,Carlos Gomez,,,Bogota,Personal,2021-02-01,false,,,Cuenta Corriente
+1026,500284,2024-11-04,Cuenta Ahorros,2932806.00,COP,,,App,Rechazada,Bogota,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1014,500223,2023-07-16,Cuenta Ahorros,10805060.25,COP,,,Oficina,Aprobada,Medellin,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1042,500291,2024-09-03,CDT,16712656.90,COP,13.700000,180,App,Pendiente,,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1040,500255,2024-09-15,Cuenta Ahorros,3665687.00,COP,,,Cajero,Aprobada,Medellin,Camila Ortiz,,,Cali,,2020-05-03,true,,3118233229,Credito | Cuenta Corriente | CDT
+1048,500156,2023-12-14,Cuenta Ahorros,,COP,,,Oficina,Aprobada,Cartagena,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1003,500077,2024-01-23,Credito,11945.21,USD,11.200000,365,Web,Pendiente,,Ana Maria Rojas,CC,533496827,Barranquilla,Personal,2020-07-01,true,ana.maria.rojas@empresa.com.co,3290597940,Cuenta Ahorros | Cuenta Corriente
+1023,500046,2024-05-22,Cuenta Ahorros,,NULL,,,Web,Aprobada,Cali,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1023,500051,2024-11-21,Credito,24286585.00,COP,13.200000,,Web,Aprobada,Medellin,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1023,500383,2024-09-18,Cuenta Ahorros,1271047.00,COP,,,Cajero,Rechazada,Medellin,Gabriela Nino,NIT,200660305,Cucuta,Personal,2023-11-11,false,gabriela.nino@outlook.com,6035151432,CDT | Credito | Cuenta Corriente
+1038,500269,2024-09-07,Cuenta Ahorros,8260314.00,COP,,,Cajero,Rechazada,Cali,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1046,500141,2024-04-15,Cuenta Ahorros,8982107.90,COP,,,Oficina,Aprobada,Cartagena,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1011,500111,2024-09-06,CDT,73279280.00,COP,,360,App,Pendiente,Bogota,Santiago Vargas,NIT,339147326,Cali,Premium,2022-11-27,false,,6025607689,Cuenta Corriente
+1008,500204,2024-12-07,CDT,34005777.00,COP,12.670000,,Cajero,Aprobada,Bogota,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1013,500216,2024-11-24,Cuenta Corriente,10659303.00,COP,,,Cajero,Rechazada,Barranquilla,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1005,500356,2024-08-21,CDT,33668051.00,COP,8.150000,,Cajero,Pendiente,,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1028,500062,2024-01-08,Credito,14645094.00,COP,,360,Web,Aprobada,Bogota,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1025,500264,2024-06-01,Credito,115827137.00,COP,13.590000,,Cajero,Pendiente,Barranquilla,Felipe Cardenas,NIT,620931459,Bogota,Premium,2022-04-02,false,,,Cuenta Ahorros
+1021,500309,2024-11-04,Cuenta Corriente,9704997.00,COP,,,Web,Aprobada,Medellin,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1007,500240,2024-02-16,CDT,23962.24,USD,9.800000,,Web,Aprobada,Barranquilla,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1007,500174,2024-11-14,Cuenta Ahorros,4018625.00,COP,,,Web,Rechazada,Bucaramanga,Santiago Vargas,NIT,521686778,Manizales,Premium,2021-07-11,false,santiago.vargas@hotmail.com,"",""
+1038,500207,2024-07-16,Cuenta Ahorros,5296.36,USD,,,Cajero,Aprobada,Cali,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1008,500155,2024-08-27,Cuenta Ahorros,14836914.00,COP,,,Cajero,Aprobada,Medellin,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1022,500089,2024-11-08,Cuenta Corriente,10056762.90,NULL,,,Cajero,Aprobada,Cali,Lucia Fernandez,CC,446669194,Medellin,,2022-08-18,true,lucia.fernandez@outlook.com,"",Credito | Cuenta Corriente
+1004,500014,2024-01-25,CDT,61580974.00,COP,8.400000,,Oficina,Aprobada,Cartagena,Isabella Diaz,CC,342601915,Medellin,Premium,2022-01-07,true,isabella.diaz@empresa.com.co,3138849654,Cuenta Ahorros
+1041,500041,2024-08-22,CDT,63512617.00,COP,,,Web,Aprobada,Bogota,Textiles Del Caribe S.a.,NIT,880804498-2,Bogota,Empresarial,2021-04-18,true,textiles.del.caribe.s.a.@outlook.com,3293912594,Cuenta Corriente | CDT
+1035,500213,2024-02-23,Cuenta Corriente,10837735.00,COP,,,App,Pendiente,Cali,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1015,500057,2024-10-14,Cuenta Corriente,6833362.00,COP,,,App,Pendiente,Barranquilla,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1021,500146,2024-08-24,Cuenta Ahorros,10556.70,USD,,,Oficina,Aprobada,Bogota,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1006,500064,2024-11-14,Cuenta Ahorros,,COP,,,App,Pendiente,Cali,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1024,500067,2024-11-11,CDT,44129606.00,NULL,,360,Oficina,Pendiente,Barranquilla,Isabella Diaz,,,Medellin,Personal,2021-12-23,false,isabella.diaz@outlook.com,3275015557,Cuenta Ahorros | Cuenta Corriente | CDT
+1024,500083,2024-05-01,Cuenta Ahorros,,COP,,,Web,Aprobada,Bogota,Isabella Diaz,,,Medellin,Personal,2021-12-23,false,isabella.diaz@outlook.com,3275015557,Cuenta Ahorros | Cuenta Corriente | CDT
+1014,500072,2024-12-18,Cuenta Corriente,2580610.00,COP,,,Oficina,Pendiente,Cartagena,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1030,500218,2024-05-10,Cuenta Corriente,9004221.00,COP,,,App,Pendiente,Cali,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1030,500354,2024-09-02,Cuenta Ahorros,9885342.00,COP,,,Cajero,Pendiente,,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+7777,500249,2024-12-02,Cuenta Ahorros,2028095.90,COP,,,Cajero,Rechazada,Bucaramanga,No identificado,,,,,,,,,""
+1002,500144,2024-11-28,Cuenta Ahorros,407818.25,COP,,,Web,Pendiente,Bogota,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1013,500058,2025-03-04,Cuenta Ahorros,1236028.00,COP,,,Web,Pendiente,Barranquilla,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1044,500420,2024-08-13,Cuenta Corriente,3070406.00,COP,,,Oficina,Aprobada,Bogota,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1044,500397,2023-06-05,Cuenta Corriente,3421231.00,COP,,,Oficina,Pendiente,Cali,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1015,500189,2024-10-04,Cuenta Ahorros,10949578.00,COP,,,Cajero,Aprobada,Medellin,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1014,500022,2024-11-25,Cuenta Ahorros,11354955.00,COP,,,App,Aprobada,Cartagena,Santiago Vargas,NIT,291311700,Cali,Personal,2019-01-11,true,,,Credito | CDT | Cuenta Ahorros
+1030,500162,2024-12-26,Credito,61917780.00,COP,8.200000,,Web,Rechazada,Medellin,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1050,500177,2024-12-16,Cuenta Ahorros,22712.19,USD,,,Oficina,Aprobada,Cali,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1046,500343,2024-06-10,Cuenta Ahorros,4655085.00,COP,,,Oficina,Pendiente,Barranquilla,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1029,500384,2024-11-17,Cuenta Ahorros,3639304.00,COP,,,Cajero,Rechazada,Medellin,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+7777,500123,2024-11-20,Cuenta Ahorros,1973695.25,COP,,,App,Rechazada,Barranquilla,No identificado,,,,,,,,,""
+1050,500150,2024-06-18,CDT,26629119.00,COP,12.800000,,Cajero,Rechazada,Medellin,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1034,500250,2024-11-20,Cuenta Ahorros,,COP,,,Cajero,Rechazada,Medellin,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1029,500129,2024-09-11,Cuenta Corriente,8559.32,USD,,,Oficina,Pendiente,Bogota,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+1034,500145,2024-10-01,Cuenta Corriente,5605.59,USD,,,Oficina,Pendiente,Cali,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1002,500161,2024-06-16,CDT,75510777.00,COP,,90,Web,Aprobada,Medellin,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1040,500365,2024-11-23,Cuenta Ahorros,10688355.00,COP,,,Cajero,Aprobada,,Camila Ortiz,,,Cali,,2020-05-03,true,,3118233229,Credito | Cuenta Corriente | CDT
+7777,500376,2024-01-18,CDT,4311031.90,COP,11.200000,360,Web,Pendiente,,No identificado,,,,,,,,,""
+1042,500406,2024-03-26,Cuenta Ahorros,12160586.90,COP,,,Oficina,Pendiente,Medellin,Tecnosoluciones Sas,NIT,839022478-5,Bucaramanga,PYME,2019-03-13,false,tecnosoluciones.sas@outlook.com,6027136034,Cuenta Ahorros | Credito
+1028,500311,2024-12-11,CDT,,USD,8.980000,,App,Pendiente,Cali,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1048,500253,2024-11-10,Cuenta Ahorros,7633839.00,COP,,,App,Rechazada,Barranquilla,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1049,500208,2024-01-17,Cuenta Ahorros,11177444.00,COP,,,Cajero,Pendiente,Bogota,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1021,500382,2024-08-01,Cuenta Ahorros,4941023.00,NULL,,,Web,Pendiente,Cali,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1040,500183,2024-11-02,CDT,57692951.00,COP,12.470000,,App,Aprobada,Barranquilla,Camila Ortiz,,,Cali,,2020-05-03,true,,3118233229,Credito | Cuenta Corriente | CDT
+1021,500361,2024-10-11,Cuenta Ahorros,12304083.00,COP,,,Cajero,Aprobada,Cali,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1044,500081,2024-09-04,Cuenta Ahorros,7241.11,USD,,,App,Aprobada,Bogota,Alimentos La Cosecha,NIT,806768972-4,Cali,Empresarial,2019-11-26,true,,,Cuenta Corriente | CDT | Credito
+1001,500323,2024-06-03,Cuenta Ahorros,6053563.00,COP,,,Cajero,Pendiente,Medellin,María José Álvarez,CC,183324205,Cali,Premium,2023-10-22,false,maria.jose.alvarez@hotmail.com,3255808277,Credito | CDT | Cuenta Ahorros
+1018,500033,2024-10-23,Cuenta Corriente,12878233.25,COP,,,Oficina,Pendiente,Barranquilla,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1038,500417,2024-12-05,Cuenta Corriente,2386490.00,COP,,,App,Rechazada,Bogota,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+7777,500355,2024-02-11,CDT,11043.66,USD,10.000000,,App,Aprobada,Bucaramanga,No identificado,,,,,,,,,""
+1050,500149,2024-05-02,Credito,87798609.00,COP,,365,App,Aprobada,Cali,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1013,500378,2024-12-09,CDT,49096276.00,COP,,365,App,Aprobada,Cali,Camila Ortiz,CC,107445646,Pereira,Premium,2019-10-04,false,,"",CDT | Cuenta Corriente | Credito
+1026,500254,2024-06-13,Cuenta Corriente,9561243.00,COP,,,Cajero,Aprobada,,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1008,500300,2024-06-09,Cuenta Ahorros,1399668.00,COP,,,Web,Aprobada,Medellin,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1004,500276,2024-02-05,CDT,22814787.00,COP,10.340000,,Oficina,Rechazada,Barranquilla,Isabella Diaz,CC,342601915,Medellin,Premium,2022-01-07,true,isabella.diaz@empresa.com.co,3138849654,Cuenta Ahorros
+1028,500360,2024-08-01,Cuenta Corriente,5544445.00,COP,,,Cajero,Aprobada,,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1019,500137,2024-12-15,CDT,78565684.00,NULL,,365,App,Pendiente,Barranquilla,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1030,500152,2024-06-13,Cuenta Corriente,3689661.25,NULL,,,Oficina,Rechazada,Bogota,Sofia Ramirez,NIT,530802345,Bogota,Premium,2022-12-11,false,sofia.ramirez@outlook.com,3238952955,Credito
+1018,500160,2024-05-20,CDT,38396953.00,COP,8.500000,,Web,Rechazada,Cali,Valentina Ruiz,CC,889034069,Barranquilla,Premium,2019-06-16,true,valentina.ruiz@outlook.com,3148717954,Cuenta Corriente | CDT | Cuenta Ahorros
+1021,500096,2024-11-09,CDT,33852741.00,COP,12.820000,,Web,Rechazada,Medellin,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1028,500387,2024-07-07,CDT,14252608.00,COP,,,App,Rechazada,Cali,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1028,500346,2024-08-01,Cuenta Corriente,3201976.00,COP,,,Cajero,Rechazada,Cali,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1050,500278,2024-07-26,Credito,12442132.00,COP,,365,Web,Pendiente,Bogota,Inversiones El Roble Sas,NIT,843374700-0,Bogota,,2023-06-08,false,inversiones.el.roble.sas@hotmail.com,6087257455,""
+1006,500260,2024-08-03,CDT,52105212.50,COP,10.200000,,Web,Rechazada,Bucaramanga,Santiago Vargas,CC,147468722,Bogota,Personal,2022-07-10,false,santiago.vargas@outlook.com,6077327764,CDT | Cuenta Corriente | Cuenta Ahorros
+1005,500366,2024-11-24,Cuenta Ahorros,10313882.00,COP,,,App,Aprobada,Cali,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1024,500171,2024-12-23,CDT,55764084.00,COP,9.080000,,App,Aprobada,Barranquilla,Isabella Diaz,,,Medellin,Personal,2021-12-23,false,isabella.diaz@outlook.com,3275015557,Cuenta Ahorros | Cuenta Corriente | CDT
+1019,500329,2024-01-17,Cuenta Corriente,,USD,,,Oficina,Rechazada,Medellin,Jorge Mendoza,NIT,572265678,Bogota,Personal,2021-03-12,false,jorge.mendoza@outlook.com,3155751377,Cuenta Corriente | Cuenta Ahorros
+1049,500271,2024-08-04,Cuenta Ahorros,13063.40,USD,,,App,Pendiente,Medellin,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1003,500243,2024-02-21,Cuenta Ahorros,4682125.00,COP,,,App,Pendiente,Cali,Ana Maria Rojas,CC,533496827,Barranquilla,Personal,2020-07-01,true,ana.maria.rojas@empresa.com.co,3290597940,Cuenta Ahorros | Cuenta Corriente
+1022,500120,2025-11-19,Cuenta Ahorros,2995033.90,COP,,,Cajero,Rechazada,Bogota,Lucia Fernandez,CC,446669194,Medellin,,2022-08-18,true,lucia.fernandez@outlook.com,"",Credito | Cuenta Corriente
+1028,500362,2024-06-14,Cuenta Ahorros,10386022.00,COP,,,Web,Rechazada,Bogota,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1049,500198,2024-04-14,CDT,31502951.00,COP,13.800000,,Oficina,Rechazada,Bogota,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1002,500193,2024-01-08,Cuenta Corriente,24549.17,USD,,,Cajero,Pendiente,Cali,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1005,500131,2024-02-02,CDT,77236212.00,COP,,,App,Pendiente,Cali,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1037,500195,2024-11-14,Cuenta Ahorros,5358209.00,COP,,,Web,Aprobada,,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+1041,500286,2024-11-12,CDT,45296826.00,NULL,10.820000,,Web,Aprobada,Bogota,Textiles Del Caribe S.a.,NIT,880804498-2,Bogota,Empresarial,2021-04-18,true,textiles.del.caribe.s.a.@outlook.com,3293912594,Cuenta Corriente | CDT
+1005,500090,2024-05-24,Cuenta Ahorros,12832012.00,COP,,,Cajero,Rechazada,,Jorge Mendoza,NIT,151504661,Barranquilla,Premium,2022-08-09,false,,3187164926,Credito | Cuenta Ahorros
+1002,500086,2024-02-09,CDT,3980520.00,COP,11.400000,,Web,Pendiente,Barranquilla,Daniela Suarez,CC,670318744,Bogota,Personal,2021-02-02,true,,3286791978,Cuenta Ahorros | CDT
+1039,500280,2024-11-17,Cuenta Ahorros,,USD,,,App,Pendiente,Cali,Carlos Gomez,,,Bogota,Personal,2021-02-01,false,,,Cuenta Corriente
+1038,500259,2024-09-19,Cuenta Ahorros,6867713.00,COP,,,Oficina,Rechazada,Barranquilla,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1008,500299,2024-11-24,CDT,2443801.00,COP,11.000000,,Oficina,Aprobada,Medellin,Lucia Fernandez,CC,450758146,Bogota,Premium,2022-08-07,true,,3269076238,Credito | Cuenta Ahorros
+1049,500367,2024-11-08,Credito,46825065.50,COP,10.600000,,App,Rechazada,Bogota,Tecnosoluciones Sas,NIT,804895887-9,Cali,Empresarial,2019-06-25,true,,,CDT
+1045,500122,2024-08-10,CDT,1601135.00,COP,13.200000,,Web,Aprobada,Bogota,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros
+1017,500340,2023-12-27,Cuenta Ahorros,210428.00,COP,,,Oficina,Pendiente,Barranquilla,Carlos Gomez,NIT,372704373,Bogota,,2021-09-24,false,carlos.gomez@empresa.com.co,3168641959,""
+1048,500099,2024-10-24,Cuenta Ahorros,9472433.00,COP,,,Web,Pendiente,Bogota,Tecnosoluciones Sas,NIT,835108164-6,Bogota,Empresarial,2019-08-28,false,tecnosoluciones.sas@gmail.com,3255204815,CDT | Cuenta Ahorros
+1015,500295,2024-04-18,CDT,67357534.00,COP,12.310000,,App,Rechazada,Bogota,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1043,500266,2024-11-08,Cuenta Ahorros,8045763.00,COP,,,Oficina,Pendiente,Cali,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1037,500069,2024-10-19,CDT,23446.85,USD,10.700000,,Cajero,Aprobada,Bogota,Gabriela Nino,CC,907258312,Cucuta,Personal,2019-02-12,true,,3247898621,""
+1033,500079,2024-10-20,Cuenta Corriente,10046568.00,COP,,,Oficina,Rechazada,Bogota,Ana Maria Rojas,CC,726938389,Bucaramanga,Premium,2021-08-06,true,,3107225042,Cuenta Corriente | Credito | Cuenta Ahorros
+1022,500322,2024-11-26,Cuenta Ahorros,3503862.00,COP,,,App,Pendiente,Cartagena,Lucia Fernandez,CC,446669194,Medellin,,2022-08-18,true,lucia.fernandez@outlook.com,"",Credito | Cuenta Corriente
+1046,500221,2025-08-03,Cuenta Ahorros,5963165.00,COP,,,Cajero,Aprobada,Medellin,Agroexportadora Valle,NIT,895639767-7,Cartagena,PYME,2020-01-12,true,,3100851835,CDT | Credito | Cuenta Corriente
+1028,500302,2024-04-08,Cuenta Ahorros,11893670.00,COP,,,Cajero,Rechazada,Cartagena,Juan Perez,NIT,631851520,Pereira,Premium,2019-03-27,true,juan.perez@outlook.com,3106763370,Credito
+1035,500093,2024-09-10,Cuenta Ahorros,7190594.00,COP,,,App,Aprobada,Barranquilla,Juan Perez,CC,103903237,Medellin,Premium,2021-12-28,true,juan.perez@gmail.com,"",Credito
+1029,500409,2024-05-01,CDT,59872735.00,COP,,90,App,Pendiente,Bogota,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+1032,500074,2024-05-12,Cuenta Corriente,9107114.90,COP,,,App,Pendiente,Medellin,Sofia Ramirez,CC,134869286,Bogota,Personal,2023-06-01,true,,,""
+1038,500412,2024-06-13,Cuenta Ahorros,2388293.00,COP,,,Oficina,Aprobada,Cali,Diego Torres,NIT,1054729284,Cali,Premium,2019-08-24,true,diego.torres@empresa.com.co,3183697021,Credito | Cuenta Ahorros
+1015,500307,2024-11-04,Credito,76353564.00,COP,11.200000,180,Oficina,Aprobada,,Daniela Suarez,CC,81551884,Bogota,Personal,2019-07-23,false,,,Cuenta Ahorros
+1043,500372,2024-05-21,Cuenta Corriente,6702440.00,NULL,,,Web,Pendiente,Barranquilla,Logistica Express Sa,NIT,864182544-0,Medellin,Empresarial,2019-12-28,true,logistica.express.sa@empresa.com.co,3128424100,Cuenta Ahorros | Credito | Cuenta Corriente
+1026,500121,2024-08-23,Cuenta Ahorros,1936336.25,COP,,,Oficina,Pendiente,Medellin,Gabriela Nino,CC,309617176,Cucuta,Premium,2019-07-13,false,gabriela.nino@empresa.com.co,6022113244,CDT
+1021,500153,2024-08-15,CDT,29237881.00,COP,12.600000,,Oficina,Rechazada,Medellin,Daniela Suarez,,,Pereira,Premium,2023-03-19,true,daniela.suarez@empresa.com.co,"",Cuenta Ahorros | Credito | Cuenta Corriente
+1029,500290,2024-10-07,Cuenta Ahorros,9184314.00,COP,,,Cajero,Pendiente,Bogota,Camila Ortiz,NIT,992161337,Cali,Premium,2021-03-22,true,camila.ortiz@gmail.com,3197030144,Credito
+1034,500282,2024-12-13,Cuenta Ahorros,950006.00,COP,,,Web,Pendiente,Medellin,María José Álvarez,CC,446377174,Barranquilla,,2023-05-10,true,maria.jose.alvarez@gmail.com,3185319380,Cuenta Corriente
+1045,500015,2024-02-21,Cuenta Ahorros,5649088.00,COP,,,Cajero,Aprobada,Bogota,Tecnosoluciones Sas,NIT,895649166-7,Cali,Empresarial,2019-01-23,false,tecnosoluciones.sas@hotmail.com,"",Credito | Cuenta Ahorros

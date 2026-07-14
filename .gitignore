@@ -15,6 +15,9 @@ derby.log
 metastore_db/
 spark-warehouse/
 
+# Ignorar las carpetas de salida crudas de Spark
+data/processed/consolidado_clientes_transacciones/
+
 # Sistema operativos
 .DS_Store
 Thumbs.db

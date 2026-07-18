@@ -11,10 +11,11 @@ A continuación se detalla la distribución de componentes del proyecto:
 ```text
 iriscf-data-analyst-test/
 ├── dashboard/
-│   └── iris_financial_dashboard.pbix <-- Tablero analítico de Power BI
+│   └── Dashboard_Transacciones_IRISCF.pbix <-- Tablero analítico de Power BI
 ├── data/
 │   ├── raw/                    <-- Fuentes de datos crudas originales (CSV y JSON)
 │   └── processed/              <-- Ubicación final del CSV unificado y limpio
+├── images/                     <-- Carpeta de imagenes con la vista previa del tablero
 ├── notebooks/
 │   └── exploration.ipynb       <-- Laboratorio de exploración, diagnóstico y hallazgos
 ├── .gitignore                  <-- Exclusiones de Git (entornos, archivos temporales)
@@ -50,6 +51,21 @@ El script realiza las siguientes acciones de forma automática:
 3. Activa el entorno virtual en la sesión.
 4. Instala y actualiza de forma segura el gestor de paquetes `pip`.
 5. Instalar todas las dependencias exactas descritas en el archivo `requirements.txt`.
+
+## Visualización de DashBoard
+Tal como aparece en la sección `Estructura del Repositorio`, el tablero solicitado fue subido en la carpeta ´dashboard´. Este ya cuenta con los requerimientos solicitados y mis aportes analíticos. 
+
+![alt text](images/dashboard_1.png)
+![alt text](images/dashboard_2.png)
+
+Por razones de seguridad —al ser este un repositorio público— oculté mi ruta local e importé los datos desde el archivo CSV haciendo uso de un parámetro.El tablero se puede analizar y explorar sin ningún problema porque cuenta con los datos almacenados internamente en caché (aunque aparezca el mensaje de que hay consultas pendientes por aplicar)
+
+Sin embargo, si se requiere comprobar su funcionamiento completo o actualizar los datos, simplemente es necesario cambiar la ruta local en Power Query. El lugar adecuado es el parámetro `RutaProyecto`, donde inicialmente se verá un texto de guía como este:
+
+> TU_RUTA_LOCAL\iriscf-data-analyst-test
+
+(Simplemente es reemplazar esta guía por la ruta absoluta de la carpeta donde se tiene almacenado el repositorio localmente)
+
 
 ## Punto 1: Preparación de los datos
 
